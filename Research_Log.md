@@ -1,5 +1,5 @@
 # Research Log
-##Week 1:
+## Week 1:
 
 I am Greg Joyce and this is my Weekly Research Log for English 235 - Technical Writing.
 So far this week, we have learned how to create repositories, add files to repositories,
