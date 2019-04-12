@@ -6,15 +6,15 @@ So far this week, we have learned how to:
 
 ### Create repositories
 -----------------------
- *add files to repositories
- *clone branches from masters
- *commit changes
- *start/accept pull requests
+*add files to repositories
+*clone branches from masters
+*commit changes
+*start/accept pull requests
 ### Format
 ----------
- *bullet lists
- *headings
- *lists
+*bullet lists
+*headings
+*lists
  
  
 The most significant thing I can say about GitHub is that is is a collaboration centered
