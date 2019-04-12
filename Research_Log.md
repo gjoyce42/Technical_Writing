@@ -3,17 +3,20 @@
 
 I am Greg Joyce and this is my Weekly Research Log for English 235 - Technical Writing.
 So far this week, we have learned how to:
-*create repositories
+
+### Create repositories
+-----------------------
  *add files to repositories
  *clone branches from masters
  *commit changes
  *start/accept pull requests
-*format
+### Format
+----------
  *bullet lists
- *Headings
+ *headings
  *lists
- *others
-
+ 
+ 
 The most significant thing I can say about GitHub is that is is a collaboration centered
 platform. Everything I have done so far has been a solitary excercise; however, it is 
 clear that this system is designed for me to share this work and/or invite others to 
