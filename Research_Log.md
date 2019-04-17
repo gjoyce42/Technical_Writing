@@ -43,3 +43,6 @@ For reference, I looked up some lego instruction guides to see how the professio
 noticed is there are no words! They are just a series of pictures with arrows. I'm glad I took good
 pictures (I think) because that seems to be important. I will consider adding arrows but I feel like 
 written instructions should suffice.
+
+Today (Wednesday) I wrote out all the instructions in a google doc. I think it will come out best with words
+on one side and pictures on the other. Almost there.
