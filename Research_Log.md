@@ -45,4 +45,17 @@ pictures (I think) because that seems to be important. I will consider adding ar
 written instructions should suffice.
 
 Today (Wednesday) I wrote out all the instructions in a google doc. I think it will come out best with words
-on one side and pictures on the other. Almost there.
+on one side and pictures on the other. 
+
+By Thursday, I had the instructions complete with words in the left column and pictures in the right. I
+was trying to print a pdf that would fold like a book but I couldn't get it to print. I later realized that
+the pages were in the wrong order for a folded pamphlet but worked ok as a digital file. That file was,
+however a little difficult to read for one person. I think a pdf was the right file format and just required
+some different arrangement for the digital version vs the printable version. I thought this format was best 
+because I could finely tune the placement of pictures and text if necessary as well as combine multiple pages
+and reorder them.
+
+Overall I was reminded that creating step-by-step procedures for anything is an iterative process. The first
+version is never the best version and it takes research, collaboration, and a willingness to throw anything
+out the window when it stops working. I also learned that some people have a hard time understanding what is
+happening in a picture.
