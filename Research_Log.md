@@ -62,7 +62,7 @@ out the window when it stops working. I also learned that some people have a har
 happening in a picture.
 
 
-## Week 2:
+## Week 3:
 ----------
 ### Composing the Survey
 <p>This week, we collaborated in a small group to compose survey questions. The goal of the survey is to inform
