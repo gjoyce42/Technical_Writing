@@ -30,6 +30,7 @@ a good place for someone to develop their understanding continually. I think the
 public sites to encourage collaboration, participation, and to help grow the community that started
 the projects.
 
+
 ## Week 2:
 ----------
 This week, we are making a more complicated lego design by adding 5-10 pieces. Since I missed the original 
@@ -59,3 +60,44 @@ Overall I was reminded that creating step-by-step procedures for anything is an 
 version is never the best version and it takes research, collaboration, and a willingness to throw anything
 out the window when it stops working. I also learned that some people have a hard time understanding what is
 happening in a picture.
+
+
+## Week 2:
+----------
+### Composing the Survey
+<p>This week, we collaborated in a small group to compose survey questions. The goal of the survey is to inform
+our future work creating tutorials/user help files. I thought it was interesting how we all saw different 
+things as important when asking a question. I was very focussed on making the questions accessible and easy
+to answer based on my prior experience analyzing survey data working for McDonald's and my work in the 
+tutoring center making documents accessible. Another member of my group seemed to be planning his tutorial and 
+trying to ask the questions that would allow him to do so. Someone else was focussed on making sure we knew
+what programs, operating systems, and devices students use so our tutorials would be the most helpful. At
+first collaboration was a little tough with multiple strong personalities trying to work together but I feel
+like we found ways to compromise & form consensus and ended up with some good questions.
+</p>
+
+### Revisiting Week 1
+<p>When I imagine the Pierce Hacker audience, I see two basic groups:
+
+The first group is the returning student. It can be very difficult to relearn how school works and you have 
+to do it fast to be successful. Many students at Pierce were never asked to use technology to submit and 
+manage assignments and some areuncomfortable with computers in general. If we can make it easier for these 
+folks to jump that hurdle, they have a much better chance of overcoming their academic hurdles.
+</p>
+
+<p>The second group is students who struggled in high school or other school. Pierce Hacker can help these
+students be successful by providing a resource designed specifically for them. These students will thrive
+best if they are provided support and encouragement - creating this platform will provide that.
+</p>
+
+<p>I think the work we are being asked to do is provided on a public website so that it can have a lasting
+effect for our audience and also to empower us to engage with these media for our own benefit.
+</p>
+
+### What I learned
+<p>This week, I learned how to better form a survey. By using concise, clear language and providing the survey
+taker just the right amount of choices to answer with we can get useful data. I also learned that some
+people choose **not** to take Math classes and may never use WAMAP. Seriously, though, it is hard for me
+to imagine that some students avoid STEM classes and I need to keep that front of mind. I am also getting better
+with markdown which was one of my personal learning outcomes for this course.
+</p>
