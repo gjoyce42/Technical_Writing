@@ -95,9 +95,9 @@ effect for our audience and also to empower us to engage with these media for ou
 </p>
 
 ### What I learned
-<p>This week, I learned how to better form a survey. By using concise, clear language and providing the survey
+This week, I learned how to better form a survey. By using concise, clear language and providing the survey
 taker just the right amount of choices to answer with we can get useful data. I also learned that some
-people choose **not** to take Math classes and may never use WAMAP. Seriously, though, it is hard for me
+people choose **_not_** to take Math classes and may never use WAMAP. Seriously, though, it is hard for me
 to imagine that some students avoid STEM classes and I need to keep that front of mind. I am also getting better
 with markdown which was one of my personal learning outcomes for this course.
-</p>
+
