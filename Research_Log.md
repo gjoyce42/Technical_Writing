@@ -101,3 +101,17 @@ people choose **_not_** to take Math classes and may never use WAMAP. Seriously,
 to imagine that some students avoid STEM classes and I need to keep that front of mind. I am also getting better
 with markdown which was one of my personal learning outcomes for this course.
 
+## Week 4:
+----------
+### Preparing to Write an Analytical Report
+This week was short (3 days of class instead of 5). We focussed on finishing up our survey and did some research
+on compiling analytical reports.
+#### Here are my key take-aways:
+- The report should be interesting and easy to read.
+- Cover Pages are for asthetics, Title Pages tell you what it's all about.
+- The Memo of Transmittal is like the email you would attach a report to. It references the request for said report
+ and what has been discussed in advance as well as the intent of the report and an expression of gratitude.
+- The findings should be discussed in detail and also summarized for quick reference.
+- Any surveys or data that is referenced should be included or a link to it should be provided.
+
+That's all I have for this week. I look forward to analyzing some data and writing my first analytical report!
