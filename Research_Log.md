@@ -101,6 +101,7 @@ people choose **_not_** to take Math classes and may never use WAMAP. Seriously,
 to imagine that some students avoid STEM classes and I need to keep that front of mind. I am also getting better
 with markdown which was one of my personal learning outcomes for this course.
 
+
 ## Week 4:
 ----------
 ### Preparing to Write an Analytical Report
@@ -109,9 +110,32 @@ on compiling analytical reports.
 #### Here are my key take-aways:
 - The report should be interesting and easy to read.
 - Cover Pages are for asthetics, Title Pages tell you what it's all about.
-- The Memo of Transmittal is like the email you would attach a report to. It references the request for said report
- and what has been discussed in advance as well as the intent of the report and an expression of gratitude.
+- The Memo of Transmittal is like the email you would attach a report to. It references the request for said
+  report and what has been discussed in advance as well as the intent of the report and an expression of gratitude.
 - The findings should be discussed in detail and also summarized for quick reference.
 - Any surveys or data that is referenced should be included or a link to it should be provided.
 
 That's all I have for this week. I look forward to analyzing some data and writing my first analytical report!
+
+
+## Week 5:
+----------
+### The Process of Drafting Our Report
+Greg and I have been collaborating on an analytical report. Our process started with reading the assignment and
+also a couple analytical reports we found online. As we were doing this, Greg started a Google Doc for us and
+started the cover and title pages. We then read through the survey results and decided a few things we thought
+were interesting enough to write about. I started up a table of contents so we had an framework to start with
+which made splitting up the work easier.
+
+### Feedback Received
+We heard back that the organization and formatting of the report was nice and that overall it looked good. I was
+stuck in traffic so I didn't get a chance to ask any further questions but Greg tells me we didn't get any 
+suggestions or recomemndations for changes/adittions.
+
+### Plans for Finalization
+Since the formatting seems good, we will continue fleshing out our sections. I will finish our letter of
+transmittal and conclusions/recommendations and Greg will do take care of the executive summary and appendices.
+
+### What I learned
+I learned that often times most of the writing you do goes unread. That means summaries are especially important
+in content and clarity. I will continue to think about what else I have learned and add on as appropriate.
