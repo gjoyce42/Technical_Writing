@@ -43,7 +43,7 @@ Data analysis can be done with any spreadsheet software from Microsoft Excel to 
 2. Type labels in the top row of your table and data below it. Each row below it should be the data from one trial.
 > Note - the top row of your table doesn't have to be row 1 and the first column doesn't have to be column A. It is ok to have multiple tables in one sheet.
 ![Table_Layout](https://github.com/ymonteagudo9896/pierce-hacker-submissions/blob/master/lessons/Table_Layout.png)
-3. 
+3. Enter the the " you need to calculate in the last column.
 
 
 ## Credits, Further Reading, etc.
@@ -53,7 +53,7 @@ Data analysis can be done with any spreadsheet software from Microsoft Excel to 
 
 * Your lesson my be a supplement to an existing resource. Link to other helpful/recommended resources here.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ3MTU5OTA5MywtMTQzMTk3MjU3NiwtOD
+eyJoaXN0b3J5IjpbLTUzMDU0ODYwNSwtMTQzMTk3MjU3NiwtOD
 k3ODA2NzI2LC0xMzk5MjY0MTg3LDE0ODY2MjMxNjAsMTY3Mzg2
 NjI1NiwxMDQzMjAyNjEyLC0xMTI0Mzg2NTU0LC0xOTM4MDA5Nj
 k0LDExMzY4MDk3NzcsLTE0ODcxNjI2NDcsLTE3MjkwODIxNzhd
