@@ -44,6 +44,7 @@ Data analysis can be done with any spreadsheet software from Microsoft Excel to 
 > Note - the top row of your table doesn't have to be row 1 and the first column doesn't have to be column A. It is ok to have multiple tables in one sheet.
 ![Table_Layout](https://github.com/ymonteagudo9896/pierce-hacker-submissions/blob/master/lessons/Table_Layout.png)
 3. Enter the the equation you need to calculate in the last column. Sheets will know it is an equation when you start with ' **=** '.
+>Note - you can enter another equation in the next column if you need to calculate more than one value _or_ 
 
 
 ## Credits, Further Reading, etc.
@@ -53,7 +54,7 @@ Data analysis can be done with any spreadsheet software from Microsoft Excel to 
 
 * Your lesson my be a supplement to an existing resource. Link to other helpful/recommended resources here.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDI0MzI2Nzc0LC0xNDMxOTcyNTc2LC04OT
+eyJoaXN0b3J5IjpbLTQ3NjMxMjYzLC0xNDMxOTcyNTc2LC04OT
 c4MDY3MjYsLTEzOTkyNjQxODcsMTQ4NjYyMzE2MCwxNjczODY2
 MjU2LDEwNDMyMDI2MTIsLTExMjQzODY1NTQsLTE5MzgwMDk2OT
 QsMTEzNjgwOTc3NywtMTQ4NzE2MjY0NywtMTcyOTA4MjE3OF19
