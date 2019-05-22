@@ -51,7 +51,7 @@ __*insert video clip entering formula here*__
 ![Equation_with_Parentheses](https://github.com/ymonteagudo9896/pierce-hacker-submissions/blob/master/lessons/Equation_with_Parentheses.png) 
 4. To calculate the same equation for all rows in the column, click on the cell and then drag the cell's bottom right corner down to the end of your list.
  __*insert video clip dragging down here*__
- 5. Assuming
+ 5. Assuming you want means and standard deviation for these columns, start by labeling the rows at the left. When you type ' **=** ' in the next 
 
 ## Credits, Further Reading, etc.
 ​
@@ -60,9 +60,9 @@ __*insert video clip entering formula here*__
 
 * Your lesson my be a supplement to an existing resource. Link to other helpful/recommended resources here.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ5MjM4NjU0LC0xNDMxOTcyNTc2LC04OT
-c4MDY3MjYsLTEzOTkyNjQxODcsMTQ4NjYyMzE2MCwxNjczODY2
-MjU2LDEwNDMyMDI2MTIsLTExMjQzODY1NTQsLTE5MzgwMDk2OT
-QsMTEzNjgwOTc3NywtMTQ4NzE2MjY0NywtMTcyOTA4MjE3OF19
-
+eyJoaXN0b3J5IjpbMTA2NjcwOTE4NiwtMTQzMTk3MjU3NiwtOD
+k3ODA2NzI2LC0xMzk5MjY0MTg3LDE0ODY2MjMxNjAsMTY3Mzg2
+NjI1NiwxMDQzMjAyNjEyLC0xMTI0Mzg2NTU0LC0xOTM4MDA5Nj
+k0LDExMzY4MDk3NzcsLTE0ODcxNjI2NDcsLTE3MjkwODIxNzhd
+fQ==
 -->
