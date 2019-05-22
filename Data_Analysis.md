@@ -47,7 +47,7 @@ Data analysis can be done with any spreadsheet software from Microsoft Excel to 
 >Note - you can enter another equation in the next column if you need to calculate more than one value _or_ if you want to make your calculation in multiple steps.
 
 __*insert*__ video clip entering formula here
-4 
+>Note - using parentheses in equations is a great way to make sure values are calculated correctly. This is especially helpful with complex equations and for be 
 
 
 ## Credits, Further Reading, etc.
@@ -57,9 +57,9 @@ __*insert*__ video clip entering formula here
 
 * Your lesson my be a supplement to an existing resource. Link to other helpful/recommended resources here.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI5MzQ5NjY2LC0xNDMxOTcyNTc2LC04OT
-c4MDY3MjYsLTEzOTkyNjQxODcsMTQ4NjYyMzE2MCwxNjczODY2
-MjU2LDEwNDMyMDI2MTIsLTExMjQzODY1NTQsLTE5MzgwMDk2OT
-QsMTEzNjgwOTc3NywtMTQ4NzE2MjY0NywtMTcyOTA4MjE3OF19
-
+eyJoaXN0b3J5IjpbLTg2NTU1MjY5NiwtMTQzMTk3MjU3NiwtOD
+k3ODA2NzI2LC0xMzk5MjY0MTg3LDE0ODY2MjMxNjAsMTY3Mzg2
+NjI1NiwxMDQzMjAyNjEyLC0xMTI0Mzg2NTU0LC0xOTM4MDA5Nj
+k0LDExMzY4MDk3NzcsLTE0ODcxNjI2NDcsLTE3MjkwODIxNzhd
+fQ==
 -->
