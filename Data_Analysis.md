@@ -36,11 +36,11 @@ Data analysis can be done with any spreadsheet software from Microsoft Excel to 
 * All files are automatically saved to the cloud so you can always get to them and you never lose your work
 * You can link your data to tables in Google Docs so changes are automatically updated
 * Google Sheets helps you along the way by suggesting equations and showing you how to enter variables
-
-Whether you just need to calculate a standard deviation or the density of a cork, this tutorial will show you how to do it 
 ​
 ## Lesson Steps/Components [as many as needed]
 ​
+1. 
+
 ## Credits, Further Reading, etc.
 ​
 
@@ -48,7 +48,7 @@ Whether you just need to calculate a standard deviation or the density of a cork
 
 * Your lesson my be a supplement to an existing resource. Link to other helpful/recommended resources here.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg4NzgxNzczNywtMTEyNDM4NjU1NCwtMT
+eyJoaXN0b3J5IjpbMTA0MzIwMjYxMiwtMTEyNDM4NjU1NCwtMT
 kzODAwOTY5NCwxMTM2ODA5Nzc3LC0xNDg3MTYyNjQ3LC0xNzI5
 MDgyMTc4XX0=
 -->
