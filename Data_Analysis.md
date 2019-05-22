@@ -37,7 +37,7 @@ Data analysis can be done with any spreadsheet software from Microsoft Excel to 
 * You can link your data to tables in Google Docs so changes are automatically updated
 * Google Sheets helps you along the way by suggesting equations and showing you how to enter variables
 
-Whether you just need to calculate a standard deviation or the density of a cork, this tutorial will show you how 
+Whether you just need to calculate a standard deviation or the density of a cork, this tutorial will show you how to do it 
 ​
 ## Lesson Steps/Components [as many as needed]
 ​
@@ -48,6 +48,7 @@ Whether you just need to calculate a standard deviation or the density of a cork
 
 * Your lesson my be a supplement to an existing resource. Link to other helpful/recommended resources here.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMjQzODY1NTQsLTE5MzgwMDk2OTQsMT
-EzNjgwOTc3NywtMTQ4NzE2MjY0NywtMTcyOTA4MjE3OF19
+eyJoaXN0b3J5IjpbMTg4NzgxNzczNywtMTEyNDM4NjU1NCwtMT
+kzODAwOTY5NCwxMTM2ODA5Nzc3LC0xNDg3MTYyNjQ3LC0xNzI5
+MDgyMTc4XX0=
 -->
