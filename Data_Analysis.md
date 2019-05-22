@@ -45,11 +45,12 @@ Data analysis can be done with any spreadsheet software from Microsoft Excel to 
 ![Table_Layout](https://github.com/ymonteagudo9896/pierce-hacker-submissions/blob/master/lessons/Table_Layout.png)
 3. Enter the the equation you need to calculate in the last column. Sheets will know it is an equation when you start with ' **=** '.
 >Note - you can enter another equation in the next column if you need to calculate more than one value _or_ if you want to make your calculation in multiple steps.
-__*insert*__ video clip entering formula here
+__*insert video clip entering formula here*__
 
 >Note - using parentheses in equations is a great way to make sure values are calculated correctly. This is especially helpful with complex equations and also for beginners.
 ![Equation_with_Parentheses](https://github.com/ymonteagudo9896/pierce-hacker-submissions/blob/master/lessons/Equation_with_Parentheses.png) 
-4. To calculate the same equation for all rows in the column, click on the squ
+4. To calculate the same equation for all rows in the column, click on the cell and then drag the cell's bottom right corner down to the end of your list.
+ __*insert video clip dragging down here*__
 
 ## Credits, Further Reading, etc.
 ​
@@ -58,9 +59,9 @@ __*insert*__ video clip entering formula here
 
 * Your lesson my be a supplement to an existing resource. Link to other helpful/recommended resources here.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzcwOTA4NzMyLC0xNDMxOTcyNTc2LC04OT
-c4MDY3MjYsLTEzOTkyNjQxODcsMTQ4NjYyMzE2MCwxNjczODY2
-MjU2LDEwNDMyMDI2MTIsLTExMjQzODY1NTQsLTE5MzgwMDk2OT
-QsMTEzNjgwOTc3NywtMTQ4NzE2MjY0NywtMTcyOTA4MjE3OF19
-
+eyJoaXN0b3J5IjpbLTE3NDIwOTg2NTYsLTE0MzE5NzI1NzYsLT
+g5NzgwNjcyNiwtMTM5OTI2NDE4NywxNDg2NjIzMTYwLDE2NzM4
+NjYyNTYsMTA0MzIwMjYxMiwtMTEyNDM4NjU1NCwtMTkzODAwOT
+Y5NCwxMTM2ODA5Nzc3LC0xNDg3MTYyNjQ3LC0xNzI5MDgyMTc4
+XX0=
 -->
