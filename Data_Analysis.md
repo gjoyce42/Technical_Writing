@@ -37,7 +37,7 @@ Data analysis can be done with any spreadsheet software from Microsoft Excel to 
 * You can link your data to tables in Google Docs so changes are automatically updated
 * Google Sheets helps you along the way by suggesting equations and showing you how to enter variables
 
-Whether you just need to organize some numbers, complete a lab report, or make graphs from 
+Whether you just need to organize some numbers, complete a lab report or make graphs/charts, Google
 ​
 ## Lesson Steps/Components [as many as needed]
 ​
@@ -48,6 +48,6 @@ Whether you just need to organize some numbers, complete a lab report, or make g
 
 * Your lesson my be a supplement to an existing resource. Link to other helpful/recommended resources here.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMxMjE4NTI5OCwtMTkzODAwOTY5NCwxMT
+eyJoaXN0b3J5IjpbMTU3NTU2NTk1NywtMTkzODAwOTY5NCwxMT
 M2ODA5Nzc3LC0xNDg3MTYyNjQ3LC0xNzI5MDgyMTc4XX0=
 -->
