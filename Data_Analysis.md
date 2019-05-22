@@ -49,7 +49,8 @@ Data analysis can be done with any spreadsheet software from Microsoft Excel to 
 4. To calculate the same equation for all rows in the column, click on the cell and then drag the cell's bottom right corner down to the end of your list.</p>__*insert video clip dragging down here*__
  5. Assuming you want means, standard deviations, or other statistics for these columns, start by labeling the rows at the left. When you type ' **=** ' in the next cell to the right, Sheets will often suggest a formula for you.</p>![Suggested_Equations](https://github.com/ymonteagudo9896/pierce-hacker-submissions/blob/master/lessons/Suggested_Equations.png)
  6. Sheets will show you what should be in your equation and guess which cells should be included. It is usually correct and will be the same for all statistics in that column.</p> __*insert video clip entering standard deviation here*__
- 7. Once you have equations entered in the first column, highlight all the statistics you have entered. Drag the bottom right corner as far to the right as you want statistics calculated.</p>__*insert video clip dragging *__
+ 7. Use the [] and [] buttons to show adjust the decimal places.
+ 8. Once you have equations entered in the first column, highlight all the statistics you have entered. Drag the bottom right corner as far to the right as you want statistics calculated.</p>__*insert video clip dragging two cells to the right*__
 
 ## Credits, Further Reading, etc.
 ​
@@ -58,9 +59,9 @@ Data analysis can be done with any spreadsheet software from Microsoft Excel to 
 
 * Your lesson my be a supplement to an existing resource. Link to other helpful/recommended resources here.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MjcwMDMzODIsLTE0MzE5NzI1NzYsLT
-g5NzgwNjcyNiwtMTM5OTI2NDE4NywxNDg2NjIzMTYwLDE2NzM4
-NjYyNTYsMTA0MzIwMjYxMiwtMTEyNDM4NjU1NCwtMTkzODAwOT
-Y5NCwxMTM2ODA5Nzc3LC0xNDg3MTYyNjQ3LC0xNzI5MDgyMTc4
-XX0=
+eyJoaXN0b3J5IjpbMTcyMzY5MDM3OCwtMTQzMTk3MjU3NiwtOD
+k3ODA2NzI2LC0xMzk5MjY0MTg3LDE0ODY2MjMxNjAsMTY3Mzg2
+NjI1NiwxMDQzMjAyNjEyLC0xMTI0Mzg2NTU0LC0xOTM4MDA5Nj
+k0LDExMzY4MDk3NzcsLTE0ODcxNjI2NDcsLTE3MjkwODIxNzhd
+fQ==
 -->
