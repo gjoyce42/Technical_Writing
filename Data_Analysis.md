@@ -17,7 +17,7 @@ Difficulty level: Intermediate
 By the end of this lesson, you will be able to do the following:
 
 * Enter data in an organized way in Google Sheets
-* Perform statistical analysis including standard deviation, mean, quartiles, etc.
+* Perform statistical analysis including standard deviation, mean, etc.
 * Enter formulas in cells so Sheets can do the math for you
 * Link a table of your results to a Google Doc for reports/papers
 
@@ -48,7 +48,7 @@ Data analysis can be done with any spreadsheet software from Microsoft Excel to 
 
 * Your lesson my be a supplement to an existing resource. Link to other helpful/recommended resources here.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA0MzIwMjYxMiwtMTEyNDM4NjU1NCwtMT
-kzODAwOTY5NCwxMTM2ODA5Nzc3LC0xNDg3MTYyNjQ3LC0xNzI5
-MDgyMTc4XX0=
+eyJoaXN0b3J5IjpbMTY3Mzg2NjI1NiwxMDQzMjAyNjEyLC0xMT
+I0Mzg2NTU0LC0xOTM4MDA5Njk0LDExMzY4MDk3NzcsLTE0ODcx
+NjI2NDcsLTE3MjkwODIxNzhdfQ==
 -->
