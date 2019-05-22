@@ -41,8 +41,7 @@ Data analysis can be done with any spreadsheet software from Microsoft Excel to 
 ​
 1. Load [Google Sheets](https://www.google.com ) and click ![new file button](https://github.com/ymonteagudo9896/pierce-hacker-submissions/blob/master/New_file_logo.png)
 2. Type labels in the top row of your table and data below it. Each row below it should be the data from one trial.
-> Note - the top row of your table doesn't have to be row 1 and the first column doesn't have to be column A. It is ok to have multiple tables in one sheet.
-![Table_Layout](https://github.com/ymonteagudo9896/pierce-hacker-submissions/blob/master/lessons/Table_Layout.png)
+> Note - the top row of your table doesn't have to be row 1 and the first column doesn't have to be column A. It is ok to have multiple tables in one sheet.![Table_Layout](https://github.com/ymonteagudo9896/pierce-hacker-submissions/blob/master/lessons/Table_Layout.png)
 3. Enter the the equation you need to calculate in the last column. Sheets will know it is an equation when you start with ' **=** '.
 >Note - you can enter another equation in the next column if you need to calculate more than one value _or_ if you want to make your calculation in multiple steps.
 __*insert video clip entering formula here*__
@@ -51,7 +50,7 @@ __*insert video clip entering formula here*__
 ![Equation_with_Parentheses](https://github.com/ymonteagudo9896/pierce-hacker-submissions/blob/master/lessons/Equation_with_Parentheses.png) 
 4. To calculate the same equation for all rows in the column, click on the cell and then drag the cell's bottom right corner down to the end of your list.
  __*insert video clip dragging down here*__
- 5. Assuming you want means, standard deviations, or other statistics for these columns, start by labeling the rows at the left. When you type ' **=** ' in the next cell to the right, Sheets will often suggest a formula for you.
+ 5. Assuming you want means, standard deviations, or other statistics for these columns, start by labeling the rows at the left. When you type ' **=** ' in the next cell to the right, Sheets will often suggest a formula for you.</p>
 
 ## Credits, Further Reading, etc.
 ​
@@ -60,7 +59,7 @@ __*insert video clip entering formula here*__
 
 * Your lesson my be a supplement to an existing resource. Link to other helpful/recommended resources here.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU2NDg4NDAzMywtMTQzMTk3MjU3NiwtOD
+eyJoaXN0b3J5IjpbMTc4NDk2MTc3NiwtMTQzMTk3MjU3NiwtOD
 k3ODA2NzI2LC0xMzk5MjY0MTg3LDE0ODY2MjMxNjAsMTY3Mzg2
 NjI1NiwxMDQzMjAyNjEyLC0xMTI0Mzg2NTU0LC0xOTM4MDA5Nj
 k0LDExMzY4MDk3NzcsLTE0ODcxNjI2NDcsLTE3MjkwODIxNzhd
