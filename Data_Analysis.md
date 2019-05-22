@@ -40,7 +40,8 @@ Data analysis can be done with any spreadsheet software from Microsoft Excel to 
 ## Lesson Steps/Components [as many as needed]
 ​
 1. Load [Google Sheets](https://www.google.com ) and click ![new file button](https://github.com/ymonteagudo9896/pierce-hacker-submissions/blob/master/New_file_logo.png)
-2. Type labels in the top row of your table and data below it. Each row below the top
+2. Type labels in the top row of your table and data below it. Each row below it should be the data from one trial.
+>
 
 
 ## Credits, Further Reading, etc.
@@ -50,7 +51,7 @@ Data analysis can be done with any spreadsheet software from Microsoft Excel to 
 
 * Your lesson my be a supplement to an existing resource. Link to other helpful/recommended resources here.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgxMTE5MjAzNSwtODk3ODA2NzI2LC0xMz
+eyJoaXN0b3J5IjpbLTEyMDQ4MTYzNywtODk3ODA2NzI2LC0xMz
 k5MjY0MTg3LDE0ODY2MjMxNjAsMTY3Mzg2NjI1NiwxMDQzMjAy
 NjEyLC0xMTI0Mzg2NTU0LC0xOTM4MDA5Njk0LDExMzY4MDk3Nz
 csLTE0ODcxNjI2NDcsLTE3MjkwODIxNzhdfQ==
