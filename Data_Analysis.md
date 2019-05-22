@@ -1,7 +1,7 @@
 ---
 title: Data Analysis With Google Suite
 authors:
-- Greg Joyce
+- Greg Joyce, Richard Soeum
 date: 2019-05-20
 reviewers:
 - John Doe
@@ -39,3 +39,6 @@ This section may include an introduction to key ideas, concepts, or rationale fo
 * You may find it necessary to reference and cite information from another source.
 
 * Your lesson my be a supplement to an existing resource. Link to other helpful/recommended resources here.
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbMTk0NTA0ODY4XX0=
+-->
