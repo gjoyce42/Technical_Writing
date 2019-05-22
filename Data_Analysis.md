@@ -45,7 +45,8 @@ Data analysis can be done with any spreadsheet software from Microsoft Excel to 
 ![Table_Layout](https://github.com/ymonteagudo9896/pierce-hacker-submissions/blob/master/lessons/Table_Layout.png)
 3. Enter the the equation you need to calculate in the last column. Sheets will know it is an equation when you start with ' **=** '.
 >Note - you can enter another equation in the next column if you need to calculate more than one value _or_ if you want to make your calculation in multiple steps.
-
+>__*insert*__ video clip entering formula here
+4. 
 
 
 ## Credits, Further Reading, etc.
@@ -55,9 +56,9 @@ Data analysis can be done with any spreadsheet software from Microsoft Excel to 
 
 * Your lesson my be a supplement to an existing resource. Link to other helpful/recommended resources here.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDY0NTI4ODc0LC0xNDMxOTcyNTc2LC04OT
-c4MDY3MjYsLTEzOTkyNjQxODcsMTQ4NjYyMzE2MCwxNjczODY2
-MjU2LDEwNDMyMDI2MTIsLTExMjQzODY1NTQsLTE5MzgwMDk2OT
-QsMTEzNjgwOTc3NywtMTQ4NzE2MjY0NywtMTcyOTA4MjE3OF19
-
+eyJoaXN0b3J5IjpbLTE4NjA2NDAxNDgsLTE0MzE5NzI1NzYsLT
+g5NzgwNjcyNiwtMTM5OTI2NDE4NywxNDg2NjIzMTYwLDE2NzM4
+NjYyNTYsMTA0MzIwMjYxMiwtMTEyNDM4NjU1NCwtMTkzODAwOT
+Y5NCwxMTM2ODA5Nzc3LC0xNDg3MTYyNjQ3LC0xNzI5MDgyMTc4
+XX0=
 -->
