@@ -39,7 +39,8 @@ Data analysis can be done with any spreadsheet software from Microsoft Excel to 
 ​
 ## Lesson Steps/Components [as many as needed]
 ​
-1. Load [Google Sheets](https://www.google.com ) and click ![new file button](https://github.com/ymonteagudo9896/pierce-hacker-submissions/blob/master/New_file_logo.png "Logo Title Text 1")
+1. Load [Google Sheets](https://www.google.com ) and click ![new file button](https://github.com/ymonteagudo9896/pierce-hacker-submissions/blob/master/New_file_logo.png)
+2. When entering a table of data, it is
 
 
 ## Credits, Further Reading, etc.
@@ -49,8 +50,8 @@ Data analysis can be done with any spreadsheet software from Microsoft Excel to 
 
 * Your lesson my be a supplement to an existing resource. Link to other helpful/recommended resources here.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkyMTM3OTE5NSwtMTM5OTI2NDE4NywxND
-g2NjIzMTYwLDE2NzM4NjYyNTYsMTA0MzIwMjYxMiwtMTEyNDM4
-NjU1NCwtMTkzODAwOTY5NCwxMTM2ODA5Nzc3LC0xNDg3MTYyNj
-Q3LC0xNzI5MDgyMTc4XX0=
+eyJoaXN0b3J5IjpbLTE1ODgwNjYyOTcsLTEzOTkyNjQxODcsMT
+Q4NjYyMzE2MCwxNjczODY2MjU2LDEwNDMyMDI2MTIsLTExMjQz
+ODY1NTQsLTE5MzgwMDk2OTQsMTEzNjgwOTc3NywtMTQ4NzE2Mj
+Y0NywtMTcyOTA4MjE3OF19
 -->
