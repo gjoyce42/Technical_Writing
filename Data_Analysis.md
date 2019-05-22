@@ -34,7 +34,7 @@ Data analysis can be done with any spreadsheet software from Microsoft Excel to 
 * It is web based, so you don't need a powerful computer to run the software
 * Multiple users can access and edit a file at the same time
 * All files are automatically saved to the cloud so you can always get to them and you never lose your work
-* You can link your data to tables in Google Docs so changes are automatically updated
+* You can link your data to tables in Google Docs so you can make changes to the Sheet and update the Doc as needed
 * Google Sheets helps you along the way by suggesting equations and showing you how to enter variables
 ​
 ## Lesson Steps/Components [as many as needed]
@@ -62,7 +62,7 @@ Data analysis can be done with any spreadsheet software from Microsoft Excel to 
 
 * Your lesson my be a supplement to an existing resource. Link to other helpful/recommended resources here.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU1MTU2MjYwMiwtMTQzMTk3MjU3NiwtOD
+eyJoaXN0b3J5IjpbLTQ4NzA1NjAxNCwtMTQzMTk3MjU3NiwtOD
 k3ODA2NzI2LC0xMzk5MjY0MTg3LDE0ODY2MjMxNjAsMTY3Mzg2
 NjI1NiwxMDQzMjAyNjEyLC0xMTI0Mzg2NTU0LC0xOTM4MDA5Nj
 k0LDExMzY4MDk3NzcsLTE0ODcxNjI2NDcsLTE3MjkwODIxNzhd
