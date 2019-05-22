@@ -54,7 +54,7 @@ Data analysis can be done with any spreadsheet software from Microsoft Excel to 
  9. When you have your table completely filled out, highlight and copy it.</p>__*insert video clip copying here*__
  10. Now paste it in your Google Doc as a linked table. </p>__*insert video clip pasting here*__
  11. After making changes to your sheet, you will see ![Update_Buttons](https://github.com/ymonteagudo9896/pierce-hacker-submissions/blob/master/lessons/Update_Buttons.png) at the top of your table in Docs. Simply click it to update the data.
- 12. If you need to change the range of your table because you added additional data 
+ 12. If you need to change the range of your table because you added additional data, find the top left and bottom right corners of your data and change them here:</p>__*insert video clip of *__
 
 ## Credits, Further Reading, etc.
 ​
@@ -63,9 +63,9 @@ Data analysis can be done with any spreadsheet software from Microsoft Excel to 
 
 * Your lesson my be a supplement to an existing resource. Link to other helpful/recommended resources here.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ1MTg3NzgyMiwtMTYxODQwOTgwNywtMT
-QzMTk3MjU3NiwtODk3ODA2NzI2LC0xMzk5MjY0MTg3LDE0ODY2
-MjMxNjAsMTY3Mzg2NjI1NiwxMDQzMjAyNjEyLC0xMTI0Mzg2NT
-U0LC0xOTM4MDA5Njk0LDExMzY4MDk3NzcsLTE0ODcxNjI2NDcs
-LTE3MjkwODIxNzhdfQ==
+eyJoaXN0b3J5IjpbNDk2Mjk5NDUzLC0xNjE4NDA5ODA3LC0xND
+MxOTcyNTc2LC04OTc4MDY3MjYsLTEzOTkyNjQxODcsMTQ4NjYy
+MzE2MCwxNjczODY2MjU2LDEwNDMyMDI2MTIsLTExMjQzODY1NT
+QsLTE5MzgwMDk2OTQsMTEzNjgwOTc3NywtMTQ4NzE2MjY0Nywt
+MTcyOTA4MjE3OF19
 -->
