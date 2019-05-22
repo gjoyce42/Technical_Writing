@@ -42,7 +42,7 @@ Data analysis can be done with any spreadsheet software from Microsoft Excel to 
 1. Load [Google Sheets](https://www.google.com ) and click ![new file button](https://github.com/ymonteagudo9896/pierce-hacker-submissions/blob/master/New_file_logo.png)
 2. Type labels in the top row of your table and data below it. Each row below it should be the data from one trial.
 > Note - the top row of your table doesn't have to be row 1 and the first column doesn't have to be column A. It is ok to have multiple tables in one sheet.
-![Table_Layout]
+![Table_Layout](https://github.com/ymonteagudo9896/pierce-hacker-submissions/blob/master/lessons/Table_Layout.png)
 3. 
 
 
@@ -53,8 +53,9 @@ Data analysis can be done with any spreadsheet software from Microsoft Excel to 
 
 * Your lesson my be a supplement to an existing resource. Link to other helpful/recommended resources here.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MzE5NzI1NzYsLTg5NzgwNjcyNiwtMT
-M5OTI2NDE4NywxNDg2NjIzMTYwLDE2NzM4NjYyNTYsMTA0MzIw
-MjYxMiwtMTEyNDM4NjU1NCwtMTkzODAwOTY5NCwxMTM2ODA5Nz
-c3LC0xNDg3MTYyNjQ3LC0xNzI5MDgyMTc4XX0=
+eyJoaXN0b3J5IjpbMTQ3MTU5OTA5MywtMTQzMTk3MjU3NiwtOD
+k3ODA2NzI2LC0xMzk5MjY0MTg3LDE0ODY2MjMxNjAsMTY3Mzg2
+NjI1NiwxMDQzMjAyNjEyLC0xMTI0Mzg2NTU0LC0xOTM4MDA5Nj
+k0LDExMzY4MDk3NzcsLTE0ODcxNjI2NDcsLTE3MjkwODIxNzhd
+fQ==
 -->
