@@ -24,7 +24,7 @@ By the end of this lesson, you will be able to do the following:
 ​
 ## Materials
 ​
-Google Sheets and Google Docs are both free to use. A Google account is required to log in - if you have a gmail, log in with that. If not, you can create one for free here: accounts.google.com/signup/
+Google Sheets and Google Docs are both free to use. A Google account is required to log in - if you have a gmail, log in with that. If not, you can create one for free here: accounts.google.com/signup
 Since Google Sheets and Docs are web based, you do not need to download any programs. Just go to docs.google.com or sheets.google.com. You can access these websites on any browser.
 ​
 ## Overview
@@ -48,7 +48,7 @@ Data analysis can be done with any spreadsheet software from Microsoft Excel to 
 
 * Your lesson my be a supplement to an existing resource. Link to other helpful/recommended resources here.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY1ODQ5MzE4MiwxNDg2NjIzMTYwLDE2Nz
+eyJoaXN0b3J5IjpbMTA5NjIxNTYyMywxNDg2NjIzMTYwLDE2Nz
 M4NjYyNTYsMTA0MzIwMjYxMiwtMTEyNDM4NjU1NCwtMTkzODAw
 OTY5NCwxMTM2ODA5Nzc3LC0xNDg3MTYyNjQ3LC0xNzI5MDgyMT
 c4XX0=
