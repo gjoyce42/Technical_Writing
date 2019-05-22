@@ -39,7 +39,7 @@ Data analysis can be done with any spreadsheet software from Microsoft Excel to 
 ​
 ## Lesson Steps/Components [as many as needed]
 ​
-1. Load [Google Sheets](https://www.google.com )
+1. Load [Google Sheets](https://www.google.com ) and click 
 
 ## Credits, Further Reading, etc.
 ​
@@ -48,8 +48,8 @@ Data analysis can be done with any spreadsheet software from Microsoft Excel to 
 
 * Your lesson my be a supplement to an existing resource. Link to other helpful/recommended resources here.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA5NjIxNTYyMywxNDg2NjIzMTYwLDE2Nz
-M4NjYyNTYsMTA0MzIwMjYxMiwtMTEyNDM4NjU1NCwtMTkzODAw
-OTY5NCwxMTM2ODA5Nzc3LC0xNDg3MTYyNjQ3LC0xNzI5MDgyMT
-c4XX0=
+eyJoaXN0b3J5IjpbLTExNzI5NjExNzYsMTQ4NjYyMzE2MCwxNj
+czODY2MjU2LDEwNDMyMDI2MTIsLTExMjQzODY1NTQsLTE5Mzgw
+MDk2OTQsMTEzNjgwOTc3NywtMTQ4NzE2MjY0NywtMTcyOTA4Mj
+E3OF19
 -->
