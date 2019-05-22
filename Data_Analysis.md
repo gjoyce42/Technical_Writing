@@ -31,10 +31,10 @@ Since Google Sheets and Docs are web based, you do not need to download any prog
 ​
 Data analysis can be done with any spreadsheet software from Microsoft Excel to OpenOffice Calc. This tutorial focuses on **Google Sheets** for a few reasons:
 * It's free
-* It is web based, meaning you don't need a powerful computer to use it
+* It is web based, so you don't need a powerful computer to run the software
 * Multiple users can access and edit a file at the same time
 * All files are automatically saved to the cloud so you can always get to them and you never lose your work
-* You can link your data to tables in Google Docs 
+* You can link your data to tables in Google Docs so changes are automatically updated
 ​
 ## Lesson Steps/Components [as many as needed]
 ​
@@ -45,5 +45,6 @@ Data analysis can be done with any spreadsheet software from Microsoft Excel to 
 
 * Your lesson my be a supplement to an existing resource. Link to other helpful/recommended resources here.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MjkwODIxNzhdfQ==
+eyJoaXN0b3J5IjpbLTE0ODcxNjI2NDcsLTE3MjkwODIxNzhdfQ
+==
 -->
