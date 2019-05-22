@@ -49,7 +49,7 @@ __*insert*__ video clip entering formula here
 
 >Note - using parentheses in equations is a great way to make sure values are calculated correctly. This is especially helpful with complex equations and also for beginners.
 ![Equation_with_Parentheses](https://github.com/ymonteagudo9896/pierce-hacker-submissions/blob/master/lessons/Equation_with_Parentheses.png) 
-4. 
+4. To calculate the same equation for all rows in the column, click on the squ
 
 ## Credits, Further Reading, etc.
 ​
@@ -58,9 +58,9 @@ __*insert*__ video clip entering formula here
 
 * Your lesson my be a supplement to an existing resource. Link to other helpful/recommended resources here.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MzQ2NzE0OTIsLTE0MzE5NzI1NzYsLT
-g5NzgwNjcyNiwtMTM5OTI2NDE4NywxNDg2NjIzMTYwLDE2NzM4
-NjYyNTYsMTA0MzIwMjYxMiwtMTEyNDM4NjU1NCwtMTkzODAwOT
-Y5NCwxMTM2ODA5Nzc3LC0xNDg3MTYyNjQ3LC0xNzI5MDgyMTc4
-XX0=
+eyJoaXN0b3J5IjpbMzcwOTA4NzMyLC0xNDMxOTcyNTc2LC04OT
+c4MDY3MjYsLTEzOTkyNjQxODcsMTQ4NjYyMzE2MCwxNjczODY2
+MjU2LDEwNDMyMDI2MTIsLTExMjQzODY1NTQsLTE5MzgwMDk2OT
+QsMTEzNjgwOTc3NywtMTQ4NzE2MjY0NywtMTcyOTA4MjE3OF19
+
 -->
