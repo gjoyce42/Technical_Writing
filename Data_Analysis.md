@@ -45,10 +45,11 @@ Data analysis can be done with any spreadsheet software from Microsoft Excel to 
 ![Table_Layout](https://github.com/ymonteagudo9896/pierce-hacker-submissions/blob/master/lessons/Table_Layout.png)
 3. Enter the the equation you need to calculate in the last column. Sheets will know it is an equation when you start with ' **=** '.
 >Note - you can enter another equation in the next column if you need to calculate more than one value _or_ if you want to make your calculation in multiple steps.
-
 __*insert*__ video clip entering formula here
->Note - using parentheses in equations is a great way to make sure values are calculated correctly. This is especially helpful with complex equations and for be 
 
+>Note - using parentheses in equations is a great way to make sure values are calculated correctly. This is especially helpful with complex equations and also for beginners.
+![Equation_with_Parentheses](https://github.com/ymonteagudo9896/pierce-hacker-submissions/blob/master/lessons/Equation_with_Parentheses.png) 
+4. 
 
 ## Credits, Further Reading, etc.
 ​
@@ -57,9 +58,9 @@ __*insert*__ video clip entering formula here
 
 * Your lesson my be a supplement to an existing resource. Link to other helpful/recommended resources here.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg2NTU1MjY5NiwtMTQzMTk3MjU3NiwtOD
-k3ODA2NzI2LC0xMzk5MjY0MTg3LDE0ODY2MjMxNjAsMTY3Mzg2
-NjI1NiwxMDQzMjAyNjEyLC0xMTI0Mzg2NTU0LC0xOTM4MDA5Nj
-k0LDExMzY4MDk3NzcsLTE0ODcxNjI2NDcsLTE3MjkwODIxNzhd
-fQ==
+eyJoaXN0b3J5IjpbLTE5MzQ2NzE0OTIsLTE0MzE5NzI1NzYsLT
+g5NzgwNjcyNiwtMTM5OTI2NDE4NywxNDg2NjIzMTYwLDE2NzM4
+NjYyNTYsMTA0MzIwMjYxMiwtMTEyNDM4NjU1NCwtMTkzODAwOT
+Y5NCwxMTM2ODA5Nzc3LC0xNDg3MTYyNjQ3LC0xNzI5MDgyMTc4
+XX0=
 -->
