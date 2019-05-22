@@ -53,7 +53,7 @@ Data analysis can be done with any spreadsheet software from Microsoft Excel to 
  8. Once you have equations entered in the first column, highlight all the statistics you have entered. Drag the bottom right corner as far to the right as you want statistics calculated.</p>__*insert video clip dragging two cells to the right*__
  9. When you have your table completely filled out, highlight and copy it.</p>__*insert video clip copying here*__
  10. Now paste it in your Google Doc as a linked table. </p>__*insert video clip pasting here*__
- 11. When you
+ 11. After making changes to 
 
 ## Credits, Further Reading, etc.
 ​
@@ -62,9 +62,9 @@ Data analysis can be done with any spreadsheet software from Microsoft Excel to 
 
 * Your lesson my be a supplement to an existing resource. Link to other helpful/recommended resources here.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ4NzA1NjAxNCwtMTQzMTk3MjU3NiwtOD
-k3ODA2NzI2LC0xMzk5MjY0MTg3LDE0ODY2MjMxNjAsMTY3Mzg2
-NjI1NiwxMDQzMjAyNjEyLC0xMTI0Mzg2NTU0LC0xOTM4MDA5Nj
-k0LDExMzY4MDk3NzcsLTE0ODcxNjI2NDcsLTE3MjkwODIxNzhd
-fQ==
+eyJoaXN0b3J5IjpbLTE0MzUwNTU4MjQsLTE0MzE5NzI1NzYsLT
+g5NzgwNjcyNiwtMTM5OTI2NDE4NywxNDg2NjIzMTYwLDE2NzM4
+NjYyNTYsMTA0MzIwMjYxMiwtMTEyNDM4NjU1NCwtMTkzODAwOT
+Y5NCwxMTM2ODA5Nzc3LC0xNDg3MTYyNjQ3LC0xNzI5MDgyMTc4
+XX0=
 -->
