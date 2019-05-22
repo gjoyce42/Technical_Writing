@@ -37,7 +37,7 @@ Data analysis can be done with any spreadsheet software from Microsoft Excel to 
 * You can link your data to tables in Google Docs so changes are automatically updated
 * Google Sheets helps you along the way by suggesting equations and showing you how to enter variables
 
-
+Whether you are a novice or used to using 
 ​
 ## Lesson Steps/Components [as many as needed]
 ​
@@ -48,6 +48,6 @@ Data analysis can be done with any spreadsheet software from Microsoft Excel to 
 
 * Your lesson my be a supplement to an existing resource. Link to other helpful/recommended resources here.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUwNDc5MzQxMSwxMTM2ODA5Nzc3LC0xND
-g3MTYyNjQ3LC0xNzI5MDgyMTc4XX0=
+eyJoaXN0b3J5IjpbNTQyNjE4MDg1LDExMzY4MDk3NzcsLTE0OD
+cxNjI2NDcsLTE3MjkwODIxNzhdfQ==
 -->
