@@ -51,6 +51,7 @@ __*insert video clip entering formula here*__
 ![Equation_with_Parentheses](https://github.com/ymonteagudo9896/pierce-hacker-submissions/blob/master/lessons/Equation_with_Parentheses.png) 
 4. To calculate the same equation for all rows in the column, click on the cell and then drag the cell's bottom right corner down to the end of your list.
  __*insert video clip dragging down here*__
+ 5. Assuming
 
 ## Credits, Further Reading, etc.
 ​
@@ -59,9 +60,9 @@ __*insert video clip entering formula here*__
 
 * Your lesson my be a supplement to an existing resource. Link to other helpful/recommended resources here.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NDIwOTg2NTYsLTE0MzE5NzI1NzYsLT
-g5NzgwNjcyNiwtMTM5OTI2NDE4NywxNDg2NjIzMTYwLDE2NzM4
-NjYyNTYsMTA0MzIwMjYxMiwtMTEyNDM4NjU1NCwtMTkzODAwOT
-Y5NCwxMTM2ODA5Nzc3LC0xNDg3MTYyNjQ3LC0xNzI5MDgyMTc4
-XX0=
+eyJoaXN0b3J5IjpbLTQ5MjM4NjU0LC0xNDMxOTcyNTc2LC04OT
+c4MDY3MjYsLTEzOTkyNjQxODcsMTQ4NjYyMzE2MCwxNjczODY2
+MjU2LDEwNDMyMDI2MTIsLTExMjQzODY1NTQsLTE5MzgwMDk2OT
+QsMTEzNjgwOTc3NywtMTQ4NzE2MjY0NywtMTcyOTA4MjE3OF19
+
 -->
