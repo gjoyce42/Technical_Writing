@@ -29,7 +29,7 @@ Since Google Sheets and Docs are web based, you do not need to download any prog
 ​
 ## Overview
 ​
-This section may include an introduction to key ideas, concepts, or rationale for the lesson. For example, if you were doing a lesson on Zotero, piece of free bibliographic software, you would explain what what Zotero is, why it might be useful for learning to use, etc.
+Data analysis can be done with 
 ​
 ## Lesson Steps/Components [as many as needed]
 ​
@@ -40,5 +40,5 @@ This section may include an introduction to key ideas, concepts, or rationale fo
 
 * Your lesson my be a supplement to an existing resource. Link to other helpful/recommended resources here.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTExMDk2NzE0XX0=
+eyJoaXN0b3J5IjpbLTEzNDY1MjAwMTRdfQ==
 -->
