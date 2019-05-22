@@ -48,7 +48,8 @@ Data analysis can be done with any spreadsheet software from Microsoft Excel to 
 >Note - using parentheses in equations is a great way to make sure values are calculated correctly. This is especially helpful with complex equations and also for beginners.</p>![Equation_with_Parentheses](https://github.com/ymonteagudo9896/pierce-hacker-submissions/blob/master/lessons/Equation_with_Parentheses.png) 
 4. To calculate the same equation for all rows in the column, click on the cell and then drag the cell's bottom right corner down to the end of your list.</p>
 __*insert video clip dragging down here*__
- 5. Assuming you want means, standard deviations, or other statistics for these columns, start by labeling the rows at the left. When you type ' **=** ' in the next cell to the right, Sheets will often suggest a formula for you.</p>
+ 5. Assuming you want means, standard deviations, or other statistics for these columns, start by labeling the rows at the left. When you type ' **=** ' in the next cell to the right, Sheets will often suggest a formula for you.</p>![Suggested_Equations](https://github.com/ymonteagudo9896/pierce-hacker-submissions/blob/master/lessons/Suggested_Equations.png)
+ 6. 
 
 ## Credits, Further Reading, etc.
 ​
@@ -57,9 +58,9 @@ __*insert video clip dragging down here*__
 
 * Your lesson my be a supplement to an existing resource. Link to other helpful/recommended resources here.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMzExMDg3OTgsLTE0MzE5NzI1NzYsLT
-g5NzgwNjcyNiwtMTM5OTI2NDE4NywxNDg2NjIzMTYwLDE2NzM4
-NjYyNTYsMTA0MzIwMjYxMiwtMTEyNDM4NjU1NCwtMTkzODAwOT
-Y5NCwxMTM2ODA5Nzc3LC0xNDg3MTYyNjQ3LC0xNzI5MDgyMTc4
-XX0=
+eyJoaXN0b3J5IjpbMTc4NTMwODM3OSwtMTQzMTk3MjU3NiwtOD
+k3ODA2NzI2LC0xMzk5MjY0MTg3LDE0ODY2MjMxNjAsMTY3Mzg2
+NjI1NiwxMDQzMjAyNjEyLC0xMTI0Mzg2NTU0LC0xOTM4MDA5Nj
+k0LDExMzY4MDk3NzcsLTE0ODcxNjI2NDcsLTE3MjkwODIxNzhd
+fQ==
 -->
