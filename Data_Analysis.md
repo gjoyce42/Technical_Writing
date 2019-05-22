@@ -52,7 +52,7 @@ Data analysis can be done with any spreadsheet software from Microsoft Excel to 
  7. Use these buttons ![Decimal_Buttons](https://github.com/ymonteagudo9896/pierce-hacker-submissions/blob/master/lessons/Decimal_Buttons.png) to adjust how many decimal places shown.</p> __*insert video clip adjusting decimals here*__
  8. Once you have equations entered in the first column, highlight all the statistics you have entered. Drag the bottom right corner as far to the right as you want statistics calculated.</p>__*insert video clip dragging two cells to the right*__
  9. When you have your table completely filled out, highlight and copy it.</p>__*insert video clip copying here*__
- 10. Now you can insert it into  
+ 10. Now paste it in your Google Doc as a linked table. </p>__*insert video clip pasting here*__
 
 ## Credits, Further Reading, etc.
 ​
@@ -61,9 +61,9 @@ Data analysis can be done with any spreadsheet software from Microsoft Excel to 
 
 * Your lesson my be a supplement to an existing resource. Link to other helpful/recommended resources here.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4Nzg4MzQ2OTAsLTE0MzE5NzI1NzYsLT
-g5NzgwNjcyNiwtMTM5OTI2NDE4NywxNDg2NjIzMTYwLDE2NzM4
-NjYyNTYsMTA0MzIwMjYxMiwtMTEyNDM4NjU1NCwtMTkzODAwOT
-Y5NCwxMTM2ODA5Nzc3LC0xNDg3MTYyNjQ3LC0xNzI5MDgyMTc4
-XX0=
+eyJoaXN0b3J5IjpbMzEzMzM0NjksLTE0MzE5NzI1NzYsLTg5Nz
+gwNjcyNiwtMTM5OTI2NDE4NywxNDg2NjIzMTYwLDE2NzM4NjYy
+NTYsMTA0MzIwMjYxMiwtMTEyNDM4NjU1NCwtMTkzODAwOTY5NC
+wxMTM2ODA5Nzc3LC0xNDg3MTYyNjQ3LC0xNzI5MDgyMTc4XX0=
+
 -->
