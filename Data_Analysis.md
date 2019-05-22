@@ -25,7 +25,7 @@ By the end of this lesson, you will be able to do the following:
 ## Materials
 ​
 Google Sheets and Google Docs are both free to use. A Google account is required to log in - if you have a gmail, log in with that. If not, you can create one for free here: https://accounts.google.com/signup/
-Since Google Sheets and Docs are web based, you do not need to download any programs. Just go to docs.google.com or sheets.google.com. These can be accessed from mobile phones
+Since Google Sheets and Docs are web based, you do not need to download any programs. Just go to docs.google.com or sheets.google.com. These can be accessed from mobile phones.
 ​
 ## Overview
 ​
@@ -40,5 +40,5 @@ This section may include an introduction to key ideas, concepts, or rationale fo
 
 * Your lesson my be a supplement to an existing resource. Link to other helpful/recommended resources here.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk0NTA0ODY4XX0=
+eyJoaXN0b3J5IjpbLTEwNjA5MTkyMDBdfQ==
 -->
