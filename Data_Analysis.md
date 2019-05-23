@@ -67,7 +67,7 @@ Data analysis can be done with any spreadsheet software from Microsoft Excel to 
 
 8. Once you have equations entered in the first column, highlight all the statistics you have entered. Drag the bottom right corner as far to the right as you want statistics calculated. ![Dragging to the right video](https://github.com/ymonteagudo9896/pierce-hacker-submissions/blob/master/lessons/images/GRY/Drag_Right.mov?)
 
-9. When you have your table completely filled out, highlight and copy it. [Copying video](https://github.com/ymonteagudo9896/pierce-hacker-submissions/blob/master/lessons/images/GRY/Copying.mov?raw=true)
+9. When you have your table completely filled out, highlight and copy it. ![Copying gif](https://github.com/ymonteagudo9896/pierce-hacker-submissions/blob/master/lessons/images/GRY/Copying.mov?raw=true)
 
 10. Now paste it in your Google Doc as a linked table. [Pasting video](https://github.com/ymonteagudo9896/pierce-hacker-submissions/blob/master/lessons/images/GRY/Pasting.mov?raw=true)
 
@@ -89,9 +89,9 @@ LTE3MjkwODIxNzhdfQ==
 -->
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg4OTUyOTkyNSwyMDYwOTA5NzY1LC0xNj
-E4NDA5ODA3LC0xNDMxOTcyNTc2LC04OTc4MDY3MjYsLTEzOTky
-NjQxODcsMTQ4NjYyMzE2MCwxNjczODY2MjU2LDEwNDMyMDI2MT
-IsLTExMjQzODY1NTQsLTE5MzgwMDk2OTQsMTEzNjgwOTc3Nywt
-MTQ4NzE2MjY0NywtMTcyOTA4MjE3OF19
+eyJoaXN0b3J5IjpbODIxMDMxMDExLC04ODk1Mjk5MjUsMjA2MD
+kwOTc2NSwtMTYxODQwOTgwNywtMTQzMTk3MjU3NiwtODk3ODA2
+NzI2LC0xMzk5MjY0MTg3LDE0ODY2MjMxNjAsMTY3Mzg2NjI1Ni
+wxMDQzMjAyNjEyLC0xMTI0Mzg2NTU0LC0xOTM4MDA5Njk0LDEx
+MzY4MDk3NzcsLTE0ODcxNjI2NDcsLTE3MjkwODIxNzhdfQ==
 -->
