@@ -1,7 +1,7 @@
 # Author Guidelines
-![Pierce_Logo] (https://raw.githubers)
+![Pierce_Logo] (https://raw.githubusercontent.com/gjoyce42/Technical_Writing/master/Tech_G)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExODM5ODQ4NzksMTg2NDEwMjU4NywxOT
-g1NTk5MzY5XX0=
+eyJoaXN0b3J5IjpbLTg1MjQwMzE0NywxODY0MTAyNTg3LDE5OD
+U1OTkzNjldfQ==
 -->
