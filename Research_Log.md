@@ -69,7 +69,8 @@ happening in a picture.
 our future work creating tutorials/user help files. I thought it was interesting how we all saw different 
 things as important when asking a question. I was very focussed on making the questions accessible and easy
 to answer based on my prior experience analyzing survey data working for McDonald's and my work in the 
-tutoring center making documents accessible. Another member of my group seemed to be planning his tutorial and trying to ask the questions that would allow him to do so. Someone else was focused on making sure we knew
+tutoring center making documents accessible. Another member of my group seemed to be planning his tutorial and 
+trying to ask the questions that would allow him to do so. Someone else was focussed on making sure we knew
 what programs, operating systems, and devices students use so our tutorials would be the most helpful. At
 first collaboration was a little tough with multiple strong personalities trying to work together but I feel
 like we found ways to compromise & form consensus and ended up with some good questions.
@@ -152,3 +153,6 @@ The biggest difference I noticed between PierceHacker and The Programming Histor
 
 ### Thoughts on Designing My Own Project
 I can't think of anything I would want to do on my own. This late in the quarter, I think it would be more productive to do something that builds on what I have already learned to kind of tie it all together. Since I don't plan to use markdown or create a tutorial any time soon, it would be good to work in this space a little more to cement my learning and come to a place of understanding that goes beyond the one project I have worked on.
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbMTg4NDUxNTE4Ml19
+-->
