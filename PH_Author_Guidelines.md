@@ -6,11 +6,11 @@ If you have an idea for a novice-friendly technology tutorial or if you have one
 
 We are looking for tutorials and lessons that develop the array of technological skills and practices that will help a diverse community of learners thrive in an evolving world.
 
-* Students
+
 ## Creating and Formatting a Tutorial
 
 ## Submitting a New Lesson
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA3NTM1NDc4MCwtNzU3Nzg1NTIzLDE4Nj
-QxMDI1ODcsMTk4NTU5OTM2OV19
+eyJoaXN0b3J5IjpbLTEyMjk3MDI2NzQsLTc1Nzc4NTUyMywxOD
+Y0MTAyNTg3LDE5ODU1OTkzNjldfQ==
 -->
