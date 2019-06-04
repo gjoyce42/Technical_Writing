@@ -1,6 +1,7 @@
 # Author Guidelines
-![Pierce_Logo] ()
+![Pierce_Logo] (https://raw.githubers)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg2NDEwMjU4NywxOTg1NTk5MzY5XX0=
+eyJoaXN0b3J5IjpbLTExODM5ODQ4NzksMTg2NDEwMjU4NywxOT
+g1NTk5MzY5XX0=
 -->
