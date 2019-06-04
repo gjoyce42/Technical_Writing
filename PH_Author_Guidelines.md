@@ -4,12 +4,13 @@
 ## Proposing a Tutorial
 Do you have an idea for a novice-friendly technology tutorial? If so, PierceHacker wants to work with you to publish it!
 
-We are l
+We are looking for tutorials and lessons that develop the array of technological skills and practices that will help a diverse community of learners thrive in an evolving world.
 
+- s
 ## Creating and Formatting a Tutorial
 
 ## Submitting a New Lesson
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkyMzQ0MzA4NSwtNzU3Nzg1NTIzLDE4Nj
-QxMDI1ODcsMTk4NTU5OTM2OV19
+eyJoaXN0b3J5IjpbNTg1NDE2MzU3LC03NTc3ODU1MjMsMTg2ND
+EwMjU4NywxOTg1NTk5MzY5XX0=
 -->
