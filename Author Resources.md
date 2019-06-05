@@ -14,8 +14,8 @@ This lesson is designed to both show how to make a tutorial formatted for Pierce
 
 ## Lesson Objectives & Outcomes
 ### Objectives:
-Prospective authors of tutorials for PierceHacker should be able to use this tutorial as a guideline to make their own. The raw text for 
+Prospective authors of tutorials for PierceHacker should be able to use this tutorial as a guideline to make their own. The raw text for this tutorial is available as well.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ0NzcwNDAxMywxMjU4ODk1MDczLC03ND
+eyJoaXN0b3J5IjpbLTM3MzUyNDU0MiwxMjU4ODk1MDczLC03ND
 E4MDkzMjldfQ==
 -->
