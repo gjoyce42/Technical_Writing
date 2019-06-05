@@ -14,9 +14,11 @@ This lesson is designed to both show how to make a tutorial formatted for Pierce
 
 ## Lesson Objectives/Outcomes
 * Authors of tutorials for PierceHacker should be able to use this tutorial as a guideline to make their own. 
-* 
+* Novices will be able to create a basic tutorial.
 * Authors will be able to reference this tutorial to review their own work before submitting.
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM1ODkyOTQ5LDc4NzAxMzc0MSwxMjU4OD
-k1MDczLC03NDE4MDkzMjldfQ==
+eyJoaXN0b3J5IjpbMzgyOTg0MTU3LDEzNTg5Mjk0OSw3ODcwMT
+M3NDEsMTI1ODg5NTA3MywtNzQxODA5MzI5XX0=
 -->
