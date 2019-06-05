@@ -13,9 +13,10 @@ difficulty level: intermediate
 This lesson is designed to both show how to make a tutorial formatted for PierceHacker and also to serve as an example to aid in the creation of other tutorials. The raw text for this tutorial is available as well.
 
 ## Lesson Objectives/Outcomes
-* Prospective authors of tutorials for PierceHacker should be able to use this tutorial as a guideline to make their own. 
-* Prospective authors will be able to reference this tutorial 
+* Authors of tutorials for PierceHacker should be able to use this tutorial as a guideline to make their own. 
+* 
+* Authors will be able to reference this tutorial to review their own work before submitting.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUwOTIxMTgzNSw3ODcwMTM3NDEsMTI1OD
+eyJoaXN0b3J5IjpbLTE2OTkxNTU1Niw3ODcwMTM3NDEsMTI1OD
 g5NTA3MywtNzQxODA5MzI5XX0=
 -->
