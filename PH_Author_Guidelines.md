@@ -1,5 +1,5 @@
 # Author Guidelines
-![Pierce_Logo] (https://raw.githubusercontent.com/gjoyce42/Technical_Writing/master/Tech_Gifs/Pierce_Logo.jpeg)
+![Pierce_Logo] (https://github.com/gjoyce42/Technical_Writing/blob/master/Tech_Gifs/Pierce_Logo.jpeg)
 
 ## Proposing a Tutorial
 If you have an idea for a novice-friendly technology tutorial or if you have one that you think could be adapted for PierceHacker, please complete a tutorial proposal form
