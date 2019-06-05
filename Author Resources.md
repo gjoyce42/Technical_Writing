@@ -10,8 +10,8 @@ difficulty level: intermediate
 ---
 
 ## Lesson Abstract
-This lesson is designed to both b
+This lesson is designed to both show how to make a tutorial formatted for PierceHacker and also to serve as an example to aid in the creation of other tutorials. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTUwODQ4Nzc4LDEyNTg4OTUwNzMsLTc0MT
-gwOTMyOV19
+eyJoaXN0b3J5IjpbLTE1MjE3OTAwNzMsMTI1ODg5NTA3MywtNz
+QxODA5MzI5XX0=
 -->
