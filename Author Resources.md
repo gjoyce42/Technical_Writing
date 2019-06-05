@@ -13,8 +13,9 @@ difficulty level: intermediate
 This lesson is designed to both show how to make a tutorial formatted for PierceHacker and also to serve as an example to aid in the creation of other tutorials. 
 
 ## Lesson Objectives & Outcomes
-### Objec
+### Objectives:
+Prospective t
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MjM4ODE3MCwxMjU4ODk1MDczLC03ND
+eyJoaXN0b3J5IjpbLTEwMDA5OTQ2MSwxMjU4ODk1MDczLC03ND
 E4MDkzMjldfQ==
 -->
