@@ -1,4 +1,4 @@
-___
+---
 title: Writing a Tutorial
 authors:
 - Greg Joyce
@@ -7,7 +7,6 @@ reviewers:
 - Be the first by reviewing this tutorial!
 layout: lesson
 difficulty level: intermediate
-
 ---
 
 
