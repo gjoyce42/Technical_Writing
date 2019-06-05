@@ -17,8 +17,14 @@ This lesson is designed to both show how to make a tutorial formatted for Pierce
 * Novices will be able to create a basic tutorial.
 * Authors will be able to reference this tutorial to review their own work before submitting.
 
+## Materials
 
+## Overview
+
+## Lesson Steps/Components
+
+## Credits, Further Reading, etc.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzgyOTg0MTU3LDEzNTg5Mjk0OSw3ODcwMT
-M3NDEsMTI1ODg5NTA3MywtNzQxODA5MzI5XX0=
+eyJoaXN0b3J5IjpbMTkzMDEyMTc2NCwxMzU4OTI5NDksNzg3MD
+EzNzQxLDEyNTg4OTUwNzMsLTc0MTgwOTMyOV19
 -->
