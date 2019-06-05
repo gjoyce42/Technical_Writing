@@ -10,8 +10,8 @@ difficulty level: intermediate
 ---
 
 ## Lesson Abstract
-This lesson is designed to 
+This lesson is designed to both b
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MzIwOTQ5OTUsMTI1ODg5NTA3MywtNz
-QxODA5MzI5XX0=
+eyJoaXN0b3J5IjpbNTUwODQ4Nzc4LDEyNTg4OTUwNzMsLTc0MT
+gwOTMyOV19
 -->
