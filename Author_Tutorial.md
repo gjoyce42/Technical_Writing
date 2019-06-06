@@ -21,13 +21,13 @@ This lesson is designed to both show how to make a tutorial formatted for Pierce
 * To complete a tutorial in markdown, you will need internet access and your favorite web browser
 * A laptop or desktop is recommended
 * A markdown editing client is recommended
-	- For iOS, try [enter link description here](https://macdown.uranusjr.com)
+	- For iOS, try [MacDown](https://macdown.uranusjr.com)
 ## Overview
 
 ## Lesson Steps/Components
 
 ## Credits, Further Reading, etc.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5ODcxNzYyNDEsLTEyMTUzMDAzOTEsLT
-U0NzQ4Njk5NywxOTMwMTIxNzY0XX0=
+eyJoaXN0b3J5IjpbMTE1MTMxNjYyMiwtMTIxNTMwMDM5MSwtNT
+Q3NDg2OTk3LDE5MzAxMjE3NjRdfQ==
 -->
