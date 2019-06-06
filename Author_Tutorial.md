@@ -6,7 +6,7 @@ date: 2019-06-05
 reviewers:
 - Be the first by reviewing this tutorial!
 layout: lesson
-difficulty level: intermediate
+difficulty level: beginner
 ---
 
 ## Lesson Abstract
@@ -25,5 +25,5 @@ This lesson is designed to both show how to make a tutorial formatted for Pierce
 
 ## Credits, Further Reading, etc.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkzMDEyMTc2NF19
+eyJoaXN0b3J5IjpbLTU0NzQ4Njk5NywxOTMwMTIxNzY0XX0=
 -->
