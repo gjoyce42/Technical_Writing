@@ -23,7 +23,7 @@ This lesson is designed to both show how to make a tutorial formatted for Pierce
 * A markdown editing client is recommended
 	- A great in-browser editor for beginners is [Editor.md](https://dillinger.io)
 	- This tutorial was created with [StackEdit](https://stackedit.io) which is another great option.
-	- For other options (and  [Slant's list of the 43 best editors for OSX](https://www.slant.co/topics/899/~best-markdown-deitors-fro-os-x).
+	- For other options, check [this page from Slant](https://www.slant.co/search?query=markdown%20editors).
 	- For Windows, 
 ## Overview
 
@@ -31,6 +31,6 @@ This lesson is designed to both show how to make a tutorial formatted for Pierce
 
 ## Credits, Further Reading, etc.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA5ODg1MDkxOCwtMTIxNTMwMDM5MSwtNT
+eyJoaXN0b3J5IjpbMTg2Nzc1OTE3MSwtMTIxNTMwMDM5MSwtNT
 Q3NDg2OTk3LDE5MzAxMjE3NjRdfQ==
 -->
