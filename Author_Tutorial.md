@@ -19,9 +19,9 @@ This lesson is designed to both show how to make a tutorial formatted for Pierce
 
 ## Materials
 * To complete a tutorial in markdown, you will need internet access and your favorite web browser
-* A laptop or desktop is recommended
+* ***A laptop or desktop is highly recommended***
 * A markdown editing client is recommended
-	- A great in-browser editor for beginners is [Editor.md](https://dillinger.io)
+	- A great in-browser editor for beginners is [Editor.md](https://dillinger.io) which works 
 	- This tutorial was created with [StackEdit](https://stackedit.io) which is another great option.
 	- For other options, check [this page from Slant](https://www.slant.co/search?query=markdown%20editors) for options specific to your operating system.
 
@@ -32,6 +32,7 @@ This lesson is designed to both show how to make a tutorial formatted for Pierce
 
 ## Credits, Further Reading, etc.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkyOTg4NjkxMywxODY3NzU5MTcxLC0xMj
-E1MzAwMzkxLC01NDc0ODY5OTcsMTkzMDEyMTc2NF19
+eyJoaXN0b3J5IjpbLTE0NDY0ODU5MywtOTI5ODg2OTEzLDE4Nj
+c3NTkxNzEsLTEyMTUzMDAzOTEsLTU0NzQ4Njk5NywxOTMwMTIx
+NzY0XX0=
 -->
