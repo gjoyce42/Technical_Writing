@@ -18,12 +18,13 @@ This lesson is designed to both show how to make a tutorial formatted for Pierce
 * Authors will be able to reference this tutorial to review their own work before submitting.
 
 ## Materials
-
+* To complete a tutorial in markdown, you will 
 ## Overview
 
 ## Lesson Steps/Components
 
 ## Credits, Further Reading, etc.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU0NzQ4Njk5NywxOTMwMTIxNzY0XX0=
+eyJoaXN0b3J5IjpbLTEyMTUzMDAzOTEsLTU0NzQ4Njk5NywxOT
+MwMTIxNzY0XX0=
 -->
