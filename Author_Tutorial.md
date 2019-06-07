@@ -34,7 +34,7 @@ This lesson is designed to both show how to make a lesson formatted for PierceHa
 Before you begin your lesson, make sure you 
 
 ### 2. Understand and consider your audience
-
+Your lesson may be for someone who has never used a certain program before or it may explain a tricky aspect of 
 
 ### 3. Determine what the user will need
 
@@ -48,7 +48,7 @@ Before you begin your lesson, make sure you
 
 ## Credits, Further Reading, etc.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM1MTE4OTAxNiwxMTA1NjE2ODczLC0xND
-Q2NDg1OTMsLTkyOTg4NjkxMywxODY3NzU5MTcxLC0xMjE1MzAw
-MzkxLC01NDc0ODY5OTcsMTkzMDEyMTc2NF19
+eyJoaXN0b3J5IjpbNDcwODU3MzAxLDExMDU2MTY4NzMsLTE0ND
+Y0ODU5MywtOTI5ODg2OTEzLDE4Njc3NTkxNzEsLTEyMTUzMDAz
+OTEsLTU0NzQ4Njk5NywxOTMwMTIxNzY0XX0=
 -->
