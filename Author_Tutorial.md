@@ -31,7 +31,7 @@ This lesson is designed to both show how to make a lesson formatted for PierceHa
 
 ## Lesson Steps/Components
 ### 1. Know your purpose, define outcomes
-
+Before you begin your lesson, make sure you 
 
 ### 2. Understand and consider your audience
 
@@ -48,7 +48,7 @@ This lesson is designed to both show how to make a lesson formatted for PierceHa
 
 ## Credits, Further Reading, etc.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjc4NDAxNzMwLDExMDU2MTY4NzMsLTE0ND
-Y0ODU5MywtOTI5ODg2OTEzLDE4Njc3NTkxNzEsLTEyMTUzMDAz
-OTEsLTU0NzQ4Njk5NywxOTMwMTIxNzY0XX0=
+eyJoaXN0b3J5IjpbLTM1MTE4OTAxNiwxMTA1NjE2ODczLC0xND
+Q2NDg1OTMsLTkyOTg4NjkxMywxODY3NzU5MTcxLC0xMjE1MzAw
+MzkxLC01NDc0ODY5OTcsMTkzMDEyMTc2NF19
 -->
