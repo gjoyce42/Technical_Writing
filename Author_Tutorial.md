@@ -42,7 +42,7 @@ Your lesson may be for someone who has never used a certain program before or it
 * **Address this user with each step - don't over/under explain**
 
 ### 3. Determine what the user will need
-Remember that not everyone has a computer, or your operating system, or your web
+Remember that not everyone has a computer, or your operating system, or your web browser, etc. Think about what is absolutely required for your lesson and what you would recommend
 
 ### 4. Start drafting
 
@@ -53,7 +53,7 @@ Remember that not everyone has a computer, or your operating system, or your web
 
 ## Credits, Further Reading, etc.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NzkwNjQ0OTksMTEwNTYxNjg3MywtMT
-Q0NjQ4NTkzLC05Mjk4ODY5MTMsMTg2Nzc1OTE3MSwtMTIxNTMw
-MDM5MSwtNTQ3NDg2OTk3LDE5MzAxMjE3NjRdfQ==
+eyJoaXN0b3J5IjpbMjU4MzE4MjYsMTEwNTYxNjg3MywtMTQ0Nj
+Q4NTkzLC05Mjk4ODY5MTMsMTg2Nzc1OTE3MSwtMTIxNTMwMDM5
+MSwtNTQ3NDg2OTk3LDE5MzAxMjE3NjRdfQ==
 -->
