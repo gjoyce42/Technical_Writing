@@ -23,17 +23,18 @@ This lesson is designed to both show how to make a lesson formatted for PierceHa
 * A markdown editing client is recommended
 	- A great in-browser editor for beginners is [Editor.md](https://dillinger.io)
 	- This lesson was created with [StackEdit](https://stackedit.io) which is free and easy to use
-	- Check [Slant.co](https://www.slant.co/search?query=markdown%20editors) for options specific to your operating system
+	- Check [this page from Slant.co](https://www.slant.co/search?query=markdown%20editors) for options specific to your operating system
 * Growth mindset!
 
 ## Overview
-Creating a lesson
+
 
 ## Lesson Steps/Components
-
+1. Audience
+2. 
 ## Credits, Further Reading, etc.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzODM5NTIyMzIsMTEwNTYxNjg3MywtMT
+eyJoaXN0b3J5IjpbLTEyNDMzMzk4NzIsMTEwNTYxNjg3MywtMT
 Q0NjQ4NTkzLC05Mjk4ODY5MTMsMTg2Nzc1OTE3MSwtMTIxNTMw
 MDM5MSwtNTQ3NDg2OTk3LDE5MzAxMjE3NjRdfQ==
 -->
