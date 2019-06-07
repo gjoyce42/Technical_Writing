@@ -21,9 +21,9 @@ This lesson is designed to both show how to make a lesson formatted for PierceHa
 * To complete a lesson in markdown, you will need internet access and your favorite web browser
 * ***A laptop or desktop is highly recommended***
 * A markdown editing client is recommended
-	- A great in-browser editor for beginners is [Editor.md](https://dillinger.io) whic
+	- A great in-browser editor for beginners is [Editor.md](https://dillinger.io)
 	- This lesson was created with [StackEdit](https://stackedit.io) which is free and easy to use
-	- For other options, check [this page from Slant](https://www.slant.co/search?query=markdown%20editors) for options specific to your operating system.
+	- Check [Slant.co](https://www.slant.co/search?query=markdown%20editors) for options specific to your operating system
 * Growth mindset!
 
 ## Overview
@@ -33,7 +33,7 @@ Creating a lesson
 
 ## Credits, Further Reading, etc.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA0Mjk5MTMyNywxMTA1NjE2ODczLC0xND
-Q2NDg1OTMsLTkyOTg4NjkxMywxODY3NzU5MTcxLC0xMjE1MzAw
-MzkxLC01NDc0ODY5OTcsMTkzMDEyMTc2NF19
+eyJoaXN0b3J5IjpbLTEzODM5NTIyMzIsMTEwNTYxNjg3MywtMT
+Q0NjQ4NTkzLC05Mjk4ODY5MTMsMTg2Nzc1OTE3MSwtMTIxNTMw
+MDM5MSwtNTQ3NDg2OTk3LDE5MzAxMjE3NjRdfQ==
 -->
