@@ -30,14 +30,14 @@ This lesson is designed to both show how to make a lesson formatted for PierceHa
 
 
 ## Lesson Steps/Components
-1. Audience
-2. Purpose/outcome
-3. Requirements/prep
+1. Know Your Purpose, Define Outcomes
+2. Understand and Consider Your Audience
+3. LRequirements/prep
 4. Drafting
 5. Review/edits
 ## Credits, Further Reading, etc.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODc3MDg4NjEyLDExMDU2MTY4NzMsLTE0ND
-Y0ODU5MywtOTI5ODg2OTEzLDE4Njc3NTkxNzEsLTEyMTUzMDAz
-OTEsLTU0NzQ4Njk5NywxOTMwMTIxNzY0XX0=
+eyJoaXN0b3J5IjpbLTg2MzA0MTI0MCwxMTA1NjE2ODczLC0xND
+Q2NDg1OTMsLTkyOTg4NjkxMywxODY3NzU5MTcxLC0xMjE1MzAw
+MzkxLC01NDc0ODY5OTcsMTkzMDEyMTc2NF19
 -->
