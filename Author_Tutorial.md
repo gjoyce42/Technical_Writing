@@ -31,13 +31,24 @@ This lesson is designed to both show how to make a lesson formatted for PierceHa
 
 ## Lesson Steps/Components
 1. Know your purpose, define outcomes
+
+
 2. Understand and consider your audience
+
+
 3. Determine what the user will need
+
+
 4. Start drafting
-5. Review/edits
+
+
+5. Review your work and make edits
+
+
+
 ## Credits, Further Reading, etc.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzY1OTIzMjk5LDExMDU2MTY4NzMsLTE0ND
-Y0ODU5MywtOTI5ODg2OTEzLDE4Njc3NTkxNzEsLTEyMTUzMDAz
-OTEsLTU0NzQ4Njk5NywxOTMwMTIxNzY0XX0=
+eyJoaXN0b3J5IjpbMTc4OTIyODI1NSwxMTA1NjE2ODczLC0xND
+Q2NDg1OTMsLTkyOTg4NjkxMywxODY3NzU5MTcxLC0xMjE1MzAw
+MzkxLC01NDc0ODY5OTcsMTkzMDEyMTc2NF19
 -->
