@@ -34,7 +34,8 @@ This lesson is designed to both show how to make a lesson formatted for PierceHa
 Before you begin your lesson, make sure you 
 
 ### 2. Understand and consider your audience
-Your lesson may be for someone who has never used a certain program before or it may be for more advanced users. Make sure you have your audience clearly in mind when writing steps and make sure you keep a consistent voice. Over/under explaining If you do want to include a note for advanced users, make it clear who that note is for.
+Your lesson may be for someone who has never used a certain program before or it may be for more advanced users. Make sure you have your audience clearly in mind when writing steps and make sure you keep a consistent voice. Over/under explaining some steps may be confusing for your readers. If you do want to include a note for advanced users, make it clear who that note is for. Here's a summary of this step:
+* 
 
 ### 3. Determine what the user will need
 
@@ -48,7 +49,7 @@ Your lesson may be for someone who has never used a certain program before or it
 
 ## Credits, Further Reading, etc.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ2MzMwOTg3MywxMTA1NjE2ODczLC0xND
+eyJoaXN0b3J5IjpbMTExMjAwOTYyNiwxMTA1NjE2ODczLC0xND
 Q2NDg1OTMsLTkyOTg4NjkxMywxODY3NzU5MTcxLC0xMjE1MzAw
 MzkxLC01NDc0ODY5OTcsMTkzMDEyMTc2NF19
 -->
