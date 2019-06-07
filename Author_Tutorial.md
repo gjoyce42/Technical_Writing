@@ -31,7 +31,7 @@ This lesson is designed to both show how to make a lesson formatted for PierceHa
 
 ## Lesson Steps/Components
 ### 1. Know your purpose, define outcomes
-Before you begin your lesson, make sure you have a clear idea of what it will be about. Lessons should be
+Before you begin your lesson, make sure you have a clear idea of what it will be about. Lessons should have 2-3 learning outcomes,
 
 ### 2. Understand and consider your audience
 Your lesson may be for someone who has never used a certain program before or it may be for more advanced users. Make sure you have your audience clearly in mind when writing steps and make sure you keep a consistent voice. Over/under explaining some steps may be confusing for your readers. If you do want to include a note for advanced users, make it clear who that note is for. In summary:
@@ -52,7 +52,7 @@ Your lesson may be for someone who has never used a certain program before or it
 
 ## Credits, Further Reading, etc.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNTg1MzI4NTUsMTEwNTYxNjg3MywtMT
+eyJoaXN0b3J5IjpbLTEzNTg0MjI2NzMsMTEwNTYxNjg3MywtMT
 Q0NjQ4NTkzLC05Mjk4ODY5MTMsMTg2Nzc1OTE3MSwtMTIxNTMw
 MDM5MSwtNTQ3NDg2OTk3LDE5MzAxMjE3NjRdfQ==
 -->
