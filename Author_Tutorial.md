@@ -27,13 +27,13 @@ This lesson is designed to both show how to make a tutorial formatted for Pierce
 * Growth mindset!
 
 ## Overview
-
+Creati
 
 ## Lesson Steps/Components
 
 ## Credits, Further Reading, etc.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEwNTYxNjg3MywtMTQ0NjQ4NTkzLC05Mj
-k4ODY5MTMsMTg2Nzc1OTE3MSwtMTIxNTMwMDM5MSwtNTQ3NDg2
-OTk3LDE5MzAxMjE3NjRdfQ==
+eyJoaXN0b3J5IjpbLTE0NjM4ODkxOSwxMTA1NjE2ODczLC0xND
+Q2NDg1OTMsLTkyOTg4NjkxMywxODY3NzU5MTcxLC0xMjE1MzAw
+MzkxLC01NDc0ODY5OTcsMTkzMDEyMTc2NF19
 -->
