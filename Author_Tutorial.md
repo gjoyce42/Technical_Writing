@@ -50,7 +50,7 @@ Remember that not everyone has a computer, or your operating system, or your web
 * **Provide links to required/recommended software or website access**
 
 ### 4. Start drafting
-Sometimes it is easier to 
+By now, you should have enough information to 
 
 ### 5. Review your work and make edits
 
@@ -58,9 +58,9 @@ Sometimes it is easier to
 
 ## Credits, Further Reading, etc.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA1NTM2ODkyNywxNDIwMzY3MTQwLC0zNj
-gxNjcyNTEsLTIwMzIxMDYzNTksLTQ1ODcyMDczMywyNTgzMTgy
-NiwxMTA1NjE2ODczLC0xNDQ2NDg1OTMsLTkyOTg4NjkxMywxOD
-Y3NzU5MTcxLC0xMjE1MzAwMzkxLC01NDc0ODY5OTcsMTkzMDEy
-MTc2NF19
+eyJoaXN0b3J5IjpbLTE0MTAyNTEyMzgsMTQyMDM2NzE0MCwtMz
+Y4MTY3MjUxLC0yMDMyMTA2MzU5LC00NTg3MjA3MzMsMjU4MzE4
+MjYsMTEwNTYxNjg3MywtMTQ0NjQ4NTkzLC05Mjk4ODY5MTMsMT
+g2Nzc1OTE3MSwtMTIxNTMwMDM5MSwtNTQ3NDg2OTk3LDE5MzAx
+MjE3NjRdfQ==
 -->
