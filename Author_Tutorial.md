@@ -47,10 +47,10 @@ Your lesson may be for someone who has never used a certain program before or it
 Remember that not everyone has a computer, or your operating system, or your web browser, etc. Think about what is absolutely required for your lesson and what you would recommend. Free software is always preferred so if your tutorial requires paid software, consider finding free alternatives. For example, Microsoft Word requires a subscription to use but markdown files can be written with a myriad of free software. Provide links to required and recommended software. In summary:
 * **Be explicit about what the user will need; i.e. internet access, hardware, operating system, software...**
 * **Recommend free software whenever possible**
-* ****
+* **Provide links to required/recommended software or website access**
 
 ### 4. Start drafting
-
+Sometimes it is easier to 
 
 ### 5. Review your work and make edits
 
@@ -58,7 +58,7 @@ Remember that not everyone has a computer, or your operating system, or your web
 
 ## Credits, Further Reading, etc.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU4ODc2ODMwMywxNDIwMzY3MTQwLC0zNj
+eyJoaXN0b3J5IjpbMjA1NTM2ODkyNywxNDIwMzY3MTQwLC0zNj
 gxNjcyNTEsLTIwMzIxMDYzNTksLTQ1ODcyMDczMywyNTgzMTgy
 NiwxMTA1NjE2ODczLC0xNDQ2NDg1OTMsLTkyOTg4NjkxMywxOD
 Y3NzU5MTcxLC0xMjE1MzAwMzkxLC01NDc0ODY5OTcsMTkzMDEy
