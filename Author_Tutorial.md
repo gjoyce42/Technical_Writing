@@ -22,9 +22,9 @@ This lesson is designed to both show how to make a lesson formatted for PierceHa
 * ***A laptop or desktop is highly recommended***
 * A markdown editing client is recommended
 	- A great in-browser editor for beginners is [Editor.md](https://dillinger.io)
-	- This lesson was created with [StackEdit](https://stackedit.io) which is free and easy to use
+	- This lesson was created with [StackEdit](https://stackedit.io) which is free, easy to use, and allows you to easily save files on your Google Drive (if you have gmail, you have this)
 	- Check [this page from Slant.co](https://www.slant.co/search?query=markdown%20editors) for options specific to your operating system
-	- If you choose to write your file in plain text or using an online work
+	- If you choose to write your file in plain text or using an online workspace like [github]
 * Growth mindset!
 
 ## Overview
@@ -54,7 +54,8 @@ Remember that not everyone has a computer, or your operating system, or your web
 
 ## Credits, Further Reading, etc.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ1ODcyMDczMywyNTgzMTgyNiwxMTA1Nj
-E2ODczLC0xNDQ2NDg1OTMsLTkyOTg4NjkxMywxODY3NzU5MTcx
-LC0xMjE1MzAwMzkxLC01NDc0ODY5OTcsMTkzMDEyMTc2NF19
+eyJoaXN0b3J5IjpbLTQ1MjE1MzI2MywtNDU4NzIwNzMzLDI1OD
+MxODI2LDExMDU2MTY4NzMsLTE0NDY0ODU5MywtOTI5ODg2OTEz
+LDE4Njc3NTkxNzEsLTEyMTUzMDAzOTEsLTU0NzQ4Njk5NywxOT
+MwMTIxNzY0XX0=
 -->
