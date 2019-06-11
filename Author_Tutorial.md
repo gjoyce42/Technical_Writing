@@ -24,7 +24,7 @@ This lesson is designed to both show how to make a lesson formatted for PierceHa
 	- A great in-browser editor for beginners is [Editor.md](https://dillinger.io)
 	- This lesson was created with [StackEdit](https://stackedit.io) which is free and easy to use
 	- Check [this page from Slant.co](https://www.slant.co/search?query=markdown%20editors) for options specific to your operating system
-	- If you choose to write your 
+	- If you choose to write your file in plain text or using an online work
 * Growth mindset!
 
 ## Overview
@@ -54,7 +54,7 @@ Remember that not everyone has a computer, or your operating system, or your web
 
 ## Credits, Further Reading, etc.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMzNzUzOTQ1NywyNTgzMTgyNiwxMTA1Nj
+eyJoaXN0b3J5IjpbLTQ1ODcyMDczMywyNTgzMTgyNiwxMTA1Nj
 E2ODczLC0xNDQ2NDg1OTMsLTkyOTg4NjkxMywxODY3NzU5MTcx
 LC0xMjE1MzAwMzkxLC01NDc0ODY5OTcsMTkzMDEyMTc2NF19
 -->
