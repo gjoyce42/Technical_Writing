@@ -27,9 +27,8 @@ This lesson is designed to both show how to make a lesson formatted for PierceHa
 * Growth mindset!
 
 ## Overview
+PierceHacker provides tutorials and other resources in order to help the Pierce College community develop new technical skills and better understand the ways in which technology shapes the work we do both in and out of the classroom.## Lesson Steps/Components
 
-
-## Lesson Steps/Components
 ### 1. Know your purpose, define outcomes
 Before you begin your lesson, make sure you have a clear idea of what it will be about. Lessons should have 2-3 learning outcomes; if you have more than this consider splitting your lesson into 2 or 3 smaller lessons. In summary:
 * **Clearly define 2-3 learning outcomes**
@@ -53,7 +52,7 @@ Remember that not everyone has a computer, or your operating system, or your web
 
 ## Credits, Further Reading, etc.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjU4MzE4MjYsMTEwNTYxNjg3MywtMTQ0Nj
-Q4NTkzLC05Mjk4ODY5MTMsMTg2Nzc1OTE3MSwtMTIxNTMwMDM5
-MSwtNTQ3NDg2OTk3LDE5MzAxMjE3NjRdfQ==
+eyJoaXN0b3J5IjpbLTM2NjMxNjIzMiwyNTgzMTgyNiwxMTA1Nj
+E2ODczLC0xNDQ2NDg1OTMsLTkyOTg4NjkxMywxODY3NzU5MTcx
+LC0xMjE1MzAwMzkxLC01NDc0ODY5OTcsMTkzMDEyMTc2NF19
 -->
