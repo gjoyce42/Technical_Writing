@@ -44,7 +44,7 @@ Your lesson may be for someone who has never used a certain program before or it
 * **Address this user with each step - don't over/under explain**
 
 ### 3. Determine what the user will need
-Remember that not everyone has a computer, or your operating system, or your web browser, etc. Think about what is absolutely required for your lesson and what you would recommend. Free software is alwa
+Remember that not everyone has a computer, or your operating system, or your web browser, etc. Think about what is absolutely required for your lesson and what you would recommend. Free software is always preferred so if your tutorial requires paid software, consider finding free alternatives. For example, Microsoft Word requires a subscription to use
 
 ### 4. Start drafting
 
@@ -55,7 +55,7 @@ Remember that not everyone has a computer, or your operating system, or your web
 
 ## Credits, Further Reading, etc.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg2NDgyNjM3OSwxNDIwMzY3MTQwLC0zNj
+eyJoaXN0b3J5IjpbMTE3NzEzMzE5OCwxNDIwMzY3MTQwLC0zNj
 gxNjcyNTEsLTIwMzIxMDYzNTksLTQ1ODcyMDczMywyNTgzMTgy
 NiwxMTA1NjE2ODczLC0xNDQ2NDg1OTMsLTkyOTg4NjkxMywxOD
 Y3NzU5MTcxLC0xMjE1MzAwMzkxLC01NDc0ODY5OTcsMTkzMDEy
