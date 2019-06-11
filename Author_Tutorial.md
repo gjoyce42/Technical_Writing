@@ -24,10 +24,12 @@ This lesson is designed to both show how to make a lesson formatted for PierceHa
 	- A great in-browser editor for beginners is [Editor.md](https://dillinger.io)
 	- This lesson was created with [StackEdit](https://stackedit.io) which is free and easy to use
 	- Check [this page from Slant.co](https://www.slant.co/search?query=markdown%20editors) for options specific to your operating system
+	- If you choose to write your 
 * Growth mindset!
 
 ## Overview
-PierceHacker provides tutorials and other resources in order to help the Pierce College community develop new technical skills and better understand the ways in which technology shapes the work we do both in and out of the classroom.## Lesson Steps/Components
+PierceHacker provides tutorials and other resources in order to help the Pierce College community develop new technical skills and better understand the ways in which technology shapes the work we do both in and out of the classroom.
+## Lesson Steps/Components
 
 ### 1. Know your purpose, define outcomes
 Before you begin your lesson, make sure you have a clear idea of what it will be about. Lessons should have 2-3 learning outcomes; if you have more than this consider splitting your lesson into 2 or 3 smaller lessons. In summary:
@@ -52,7 +54,7 @@ Remember that not everyone has a computer, or your operating system, or your web
 
 ## Credits, Further Reading, etc.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM2NjMxNjIzMiwyNTgzMTgyNiwxMTA1Nj
+eyJoaXN0b3J5IjpbMTMzNzUzOTQ1NywyNTgzMTgyNiwxMTA1Nj
 E2ODczLC0xNDQ2NDg1OTMsLTkyOTg4NjkxMywxODY3NzU5MTcx
 LC0xMjE1MzAwMzkxLC01NDc0ODY5OTcsMTkzMDEyMTc2NF19
 -->
