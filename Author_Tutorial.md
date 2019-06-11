@@ -24,7 +24,7 @@ This lesson is designed to both show how to make a lesson formatted for PierceHa
 	- A great in-browser editor for beginners is [Editor.md](https://dillinger.io)
 	- This lesson was created with [StackEdit](https://stackedit.io) which is free, easy to use, and allows you to easily save files on your Google Drive (if you have gmail, you have this)
 	- Check [this page from Slant.co](https://www.slant.co/search?query=markdown%20editors) for options specific to your operating system
-	- If you choose to write your file in plain text or using an online workspace like [github](https://github.com/), check this [page from markdown.org](https://www.markdownguide.org/basic-syntax/) that will help you format your file
+>	- If you choose to write your file in plain text or using an online workspace like [github](https://github.com/), check this [page from markdown.org](https://www.markdownguide.org/basic-syntax/) that will help you format your file
 * Growth mindset!
 
 ## Overview
@@ -35,7 +35,7 @@ PierceHacker hosts lessons and other resources in order to help the Pierce Colle
 ### 1. Know your purpose, define outcomes
 Before you begin your lesson, make sure you have a clear idea of what it will be about. Lessons should have 2-3 learning outcomes; if you have more than this consider splitting your lesson into 2 or 3 smaller lessons. In summary:
 * **Clearly define 2-3 learning outcomes**
-* **Shorten longer lessons or split them into smaller ones**
+* **Shorten long lessons or split them into smaller ones**
 
 ### 2. Understand and consider your audience
 Your lesson may be for someone who has never used a certain program before or it may be for more advanced users. Make sure you have your audience clearly in mind when writing steps and make sure you keep a consistent voice. Over/under explaining some steps may be confusing for your readers. If you do want to include a note for advanced users, make it clear who that note is for. In summary:
@@ -44,7 +44,7 @@ Your lesson may be for someone who has never used a certain program before or it
 * **Address this user with each step - don't over/under explain**
 
 ### 3. Determine what the user will need
-Remember that not everyone has a computer, or your operating system, or your web browser, etc. Think about what is absolutely required for your lesson and what you would recommend
+Remember that not everyone has a computer, or your operating system, or your web browser, etc. Think about what is absolutely required for your lesson and what you would recommend. Free software is alwa
 
 ### 4. Start drafting
 
@@ -55,7 +55,7 @@ Remember that not everyone has a computer, or your operating system, or your web
 
 ## Credits, Further Reading, etc.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEyNjU5MDg4NCwxNDIwMzY3MTQwLC0zNj
+eyJoaXN0b3J5IjpbLTg2NDgyNjM3OSwxNDIwMzY3MTQwLC0zNj
 gxNjcyNTEsLTIwMzIxMDYzNTksLTQ1ODcyMDczMywyNTgzMTgy
 NiwxMTA1NjE2ODczLC0xNDQ2NDg1OTMsLTkyOTg4NjkxMywxOD
 Y3NzU5MTcxLC0xMjE1MzAwMzkxLC01NDc0ODY5OTcsMTkzMDEy
