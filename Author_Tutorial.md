@@ -28,7 +28,7 @@ This lesson is designed to both show how to make a lesson formatted for PierceHa
 * Growth mindset!
 
 ## Overview
-PierceHacker hosts lessons and other resources in order to help the Pierce College community develop new technical skills and better understand the ways in which technology shapes the work we do both in and out of the classroom. This 
+PierceHacker hosts lessons and other resources in order to help the Pierce College community develop new technical skills and better understand the ways in which technology shapes the work we do both in and out of the classroom. The goal of these lessons is both to provide a resource to students or professors and also to act as a learning experience for the author. 
 
 ## Lesson Steps/Components
 
@@ -55,8 +55,8 @@ Remember that not everyone has a computer, or your operating system, or your web
 
 ## Credits, Further Reading, etc.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzY0ODQ5MDgwLC0zNjgxNjcyNTEsLTIwMz
-IxMDYzNTksLTQ1ODcyMDczMywyNTgzMTgyNiwxMTA1NjE2ODcz
-LC0xNDQ2NDg1OTMsLTkyOTg4NjkxMywxODY3NzU5MTcxLC0xMj
-E1MzAwMzkxLC01NDc0ODY5OTcsMTkzMDEyMTc2NF19
+eyJoaXN0b3J5IjpbLTE1NzU0OTg2MDgsLTM2ODE2NzI1MSwtMj
+AzMjEwNjM1OSwtNDU4NzIwNzMzLDI1ODMxODI2LDExMDU2MTY4
+NzMsLTE0NDY0ODU5MywtOTI5ODg2OTEzLDE4Njc3NTkxNzEsLT
+EyMTUzMDAzOTEsLTU0NzQ4Njk5NywxOTMwMTIxNzY0XX0=
 -->
