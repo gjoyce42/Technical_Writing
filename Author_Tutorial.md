@@ -28,7 +28,8 @@ This lesson is designed to both show how to make a lesson formatted for PierceHa
 * Growth mindset!
 
 ## Overview
-PierceHacker hosts lessons and other resources in order to help the Pierce College community develop new technical skills and better understand the ways in which technology shapes the work we do both in and out of the classroom. The goal of these lessons is both to provide a resource to students or professors and also to act as a learning experience for the author. This lesson will provide some overview, tips, and resources for authors but will hopefully allow the author to develop their own information competency. [Open pedagogy](http://openpedagogy.org/open-pedagogy/) is at the heart of PierceHacker so the goal is to develop the author of each lesson as well a
+PierceHacker hosts lessons and other resources in order to help the Pierce College community develop new technical skills and better understand the ways in which technology shapes the work we do both in and out of the classroom. The goal of these lessons is both to provide a resource to students or professors and also to act as a learning experience for the author. This lesson will provide some overview, tips, and resources for authors but also assumes a willingness to explore and experiment. [Open pedagogy](http://openpedagogy.org/open-pedagogy/) is at the heart of PierceHacker so the goal is to develop the author of each lesson as well as the user.
+
 ## Lesson Steps/Components
 
 ### 1. Know your purpose, define outcomes
@@ -54,9 +55,9 @@ Remember that not everyone has a computer, or your operating system, or your web
 
 ## Credits, Further Reading, etc.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDQ3MTQ0MjgsMTQyMDM2NzE0MCwtMzY4MT
-Y3MjUxLC0yMDMyMTA2MzU5LC00NTg3MjA3MzMsMjU4MzE4MjYs
-MTEwNTYxNjg3MywtMTQ0NjQ4NTkzLC05Mjk4ODY5MTMsMTg2Nz
-c1OTE3MSwtMTIxNTMwMDM5MSwtNTQ3NDg2OTk3LDE5MzAxMjE3
-NjRdfQ==
+eyJoaXN0b3J5IjpbMTcyMTQ5NDM2NSwxNDIwMzY3MTQwLC0zNj
+gxNjcyNTEsLTIwMzIxMDYzNTksLTQ1ODcyMDczMywyNTgzMTgy
+NiwxMTA1NjE2ODczLC0xNDQ2NDg1OTMsLTkyOTg4NjkxMywxOD
+Y3NzU5MTcxLC0xMjE1MzAwMzkxLC01NDc0ODY5OTcsMTkzMDEy
+MTc2NF19
 -->
