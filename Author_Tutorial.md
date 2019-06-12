@@ -28,7 +28,7 @@ This lesson is designed to both show how to make a lesson formatted for PierceHa
 * Growth mindset!
 
 ## Overview
-PierceHacker hosts lessons and other resources in order to help the Pierce College community develop new technical skills and better understand the ways in which technology shapes the work we do both in and out of the classroom. The obvious goal of these lessons is both to provide a resource to students & professors and also to act as a learning experience for the author. This lesson will provide some overview, tips, and resources for authors but also assumes a willingness to explore and experiment. [Open pedagogy](http://openpedagogy.org/open-pedagogy/) is at the heart of PierceHacker so the goal is to develop the author of each lesson as well as the user.
+PierceHacker hosts lessons and other resources in order to help the Pierce College community develop new technical skills and better understand the ways in which technology shapes the work we do both in and out of the classroom. The obvious goal of these lessons is to provide a resource to students & professor. However, This lesson will provide some overview, tips, and resources for authors but also assumes a willingness to explore and experiment. [Open pedagogy](http://openpedagogy.org/open-pedagogy/) is at the heart of PierceHacker - we hope authors will learn and grow as .
 
 ## Lesson Steps/Components
 
@@ -58,9 +58,9 @@ Start with the [lesson template](https://github.com/jloan/pierce-hacker-submissi
 
 ## Credits, Further Reading, etc.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzc4MjU2MDczLDIwODY2NTgxNTgsMTQyMD
-M2NzE0MCwtMzY4MTY3MjUxLC0yMDMyMTA2MzU5LC00NTg3MjA3
-MzMsMjU4MzE4MjYsMTEwNTYxNjg3MywtMTQ0NjQ4NTkzLC05Mj
-k4ODY5MTMsMTg2Nzc1OTE3MSwtMTIxNTMwMDM5MSwtNTQ3NDg2
-OTk3LDE5MzAxMjE3NjRdfQ==
+eyJoaXN0b3J5IjpbLTE0Mzg4NTYwMzcsMjA4NjY1ODE1OCwxND
+IwMzY3MTQwLC0zNjgxNjcyNTEsLTIwMzIxMDYzNTksLTQ1ODcy
+MDczMywyNTgzMTgyNiwxMTA1NjE2ODczLC0xNDQ2NDg1OTMsLT
+kyOTg4NjkxMywxODY3NzU5MTcxLC0xMjE1MzAwMzkxLC01NDc0
+ODY5OTcsMTkzMDEyMTc2NF19
 -->
