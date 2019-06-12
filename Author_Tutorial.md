@@ -44,7 +44,7 @@ Your lesson may be for someone who has never used a certain program before or it
 * **Keep this experience level in mind with each step - don't over/under explain**
 
 ### 3. Determine what the user will need
-Remember that not everyone has a computer, or your operating system, or your web browser, etc. Think about what is absolutely required for your lesson and what you would recommend. Free software is always preferred so if your tutorial requires paid software, consider finding free alternatives. For example, Microsoft Word requires a subscription to use but markdown files can be written with a myriad of free software. Provide links to required and recommended software. In summary:
+Remember that not everyone has a computer, or a specific operating system, etc. Think about what is absolutely required for your lesson and what you would recommend. Free software is always preferred so if your tutorial requires paid software, consider finding free alternatives. For example, Microsoft Word requires a subscription to use but markdown files can be written with a myriad of free software. Provide links to required and recommended software. In summary:
 * **Be explicit about what the user will need; i.e. internet access, hardware, operating system, software...**
 * **Recommend free software whenever possible**
 * **Provide links to required/recommended software or website access**
@@ -58,9 +58,9 @@ Start with the [lesson template](https://github.com/jloan/pierce-hacker-submissi
 
 ## Credits, Further Reading, etc.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU5MDkyMTU4MywyMDg2NjU4MTU4LDE0Mj
-AzNjcxNDAsLTM2ODE2NzI1MSwtMjAzMjEwNjM1OSwtNDU4NzIw
-NzMzLDI1ODMxODI2LDExMDU2MTY4NzMsLTE0NDY0ODU5MywtOT
-I5ODg2OTEzLDE4Njc3NTkxNzEsLTEyMTUzMDAzOTEsLTU0NzQ4
-Njk5NywxOTMwMTIxNzY0XX0=
+eyJoaXN0b3J5IjpbNjI0OTYyMDc5LDIwODY2NTgxNTgsMTQyMD
+M2NzE0MCwtMzY4MTY3MjUxLC0yMDMyMTA2MzU5LC00NTg3MjA3
+MzMsMjU4MzE4MjYsMTEwNTYxNjg3MywtMTQ0NjQ4NTkzLC05Mj
+k4ODY5MTMsMTg2Nzc1OTE3MSwtMTIxNTMwMDM5MSwtNTQ3NDg2
+OTk3LDE5MzAxMjE3NjRdfQ==
 -->
