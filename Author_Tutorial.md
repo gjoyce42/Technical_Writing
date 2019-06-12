@@ -50,7 +50,7 @@ Remember that not everyone has a computer, or a specific operating system, etc. 
 * **Provide links to required/recommended software or website access**
 
 ### 4. Start drafting
-Start with the [lesson template](https://github.com/jloan/pierce-hacker-submissions/blob/master/lessons/lesson-template.md). By now, you should have enough information to fill out everything up to the Lesson Steps/Components portion. Try not to hold yourself to a certain number of steps. Instead, write out as many steps as you think you need. You can always combine them later if appropriate. If you feel like you have done this and your lesson is too long, it may be a good idea to break it up into 2 or more lessons.
+Start with the [lesson template](https://github.com/jloan/pierce-hacker-submissions/blob/master/lessons/lesson-template.md). By now, you should have enough information to fill out everything up to the Lesson Steps/Components portion. This is a great time to research other online lessons (or tutorials) to get an idea of Try not to hold yourself to a certain number of steps. Instead, write out as many steps as you think you need. You can always combine them later if appropriate. If you feel like you have done this and your lesson is too long, it may be a good idea to break it up into 2 or more lessons.
 
 ### 5. Review your work and make edits
 
@@ -58,10 +58,10 @@ Start with the [lesson template](https://github.com/jloan/pierce-hacker-submissi
 
 ## Credits, Further Reading, etc.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjkxNTA1NDIsMTkyMjI0ODE3NCwtNDE0OD
-E1MDczLDczODI1MTM4MywyMDg2NjU4MTU4LDE0MjAzNjcxNDAs
-LTM2ODE2NzI1MSwtMjAzMjEwNjM1OSwtNDU4NzIwNzMzLDI1OD
-MxODI2LDExMDU2MTY4NzMsLTE0NDY0ODU5MywtOTI5ODg2OTEz
-LDE4Njc3NTkxNzEsLTEyMTUzMDAzOTEsLTU0NzQ4Njk5NywxOT
-MwMTIxNzY0XX0=
+eyJoaXN0b3J5IjpbODYzMTM0ODM4LDE5MjIyNDgxNzQsLTQxND
+gxNTA3Myw3MzgyNTEzODMsMjA4NjY1ODE1OCwxNDIwMzY3MTQw
+LC0zNjgxNjcyNTEsLTIwMzIxMDYzNTksLTQ1ODcyMDczMywyNT
+gzMTgyNiwxMTA1NjE2ODczLC0xNDQ2NDg1OTMsLTkyOTg4Njkx
+MywxODY3NzU5MTcxLC0xMjE1MzAwMzkxLC01NDc0ODY5OTcsMT
+kzMDEyMTc2NF19
 -->
