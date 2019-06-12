@@ -28,7 +28,7 @@ This lesson is designed to both show how to make a lesson formatted for PierceHa
 * Growth mindset!
 
 ## Overview
-PierceHacker hosts lessons and other resources in order to help the Pierce College community develop new technical skills and better understand the ways in which technology shapes the work we do both in and out of the classroom. The goal of these lessons is both to provide a resource to students or professors and also to act as a learning experience for the author. This lesson will provide some overview, tips, and resources for authors but also assumes a willingness to explore and experiment. [Open pedagogy](http://openpedagogy.org/open-pedagogy/) is at the heart of PierceHacker so the goal is to develop the author of each lesson as well as the user.
+PierceHacker hosts lessons and other resources in order to help the Pierce College community develop new technical skills and better understand the ways in which technology shapes the work we do both in and out of the classroom. The obvious goal of these lessons is both to provide a resource to students & professors and also to act as a learning experience for the author. This lesson will provide some overview, tips, and resources for authors but also assumes a willingness to explore and experiment. [Open pedagogy](http://openpedagogy.org/open-pedagogy/) is at the heart of PierceHacker so the goal is to develop the author of each lesson as well as the user.
 
 ## Lesson Steps/Components
 
@@ -41,7 +41,7 @@ Before you begin your lesson, make sure you have a clear idea of what it will be
 Your lesson may be for someone who has never used a certain program before or it may be for more advanced users. Make sure you have your audience clearly in mind when writing steps and make sure you keep a consistent voice. Over/under explaining some steps may be confusing for your readers. If you do want to include a note for advanced users, make it clear who that note is for. In summary:
 
 * **Decide if your tutorial is for a novice, intermediate, or advanced user**
-* **Keep this in mind  for each step - don't over/under explain**
+* **Keep this experience level in mind with each step - don't over/under explain**
 
 ### 3. Determine what the user will need
 Remember that not everyone has a computer, or your operating system, or your web browser, etc. Think about what is absolutely required for your lesson and what you would recommend. Free software is always preferred so if your tutorial requires paid software, consider finding free alternatives. For example, Microsoft Word requires a subscription to use but markdown files can be written with a myriad of free software. Provide links to required and recommended software. In summary:
@@ -58,9 +58,9 @@ Start with the [lesson template](https://github.com/jloan/pierce-hacker-submissi
 
 ## Credits, Further Reading, etc.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM3MTQzOTg1NiwyMDg2NjU4MTU4LDE0Mj
-AzNjcxNDAsLTM2ODE2NzI1MSwtMjAzMjEwNjM1OSwtNDU4NzIw
-NzMzLDI1ODMxODI2LDExMDU2MTY4NzMsLTE0NDY0ODU5MywtOT
-I5ODg2OTEzLDE4Njc3NTkxNzEsLTEyMTUzMDAzOTEsLTU0NzQ4
-Njk5NywxOTMwMTIxNzY0XX0=
+eyJoaXN0b3J5IjpbMzc4MjU2MDczLDIwODY2NTgxNTgsMTQyMD
+M2NzE0MCwtMzY4MTY3MjUxLC0yMDMyMTA2MzU5LC00NTg3MjA3
+MzMsMjU4MzE4MjYsMTEwNTYxNjg3MywtMTQ0NjQ4NTkzLC05Mj
+k4ODY5MTMsMTg2Nzc1OTE3MSwtMTIxNTMwMDM5MSwtNTQ3NDg2
+OTk3LDE5MzAxMjE3NjRdfQ==
 -->
