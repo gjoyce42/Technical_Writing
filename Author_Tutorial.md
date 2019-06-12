@@ -33,18 +33,18 @@ PierceHacker hosts lessons and other resources in order to help the Pierce Colle
 ## Lesson Steps/Components
 
 ### 1. Know your purpose, define outcomes
-Before you begin your lesson, make sure you have a clear idea of what it will be about. Lessons should have 2-3 learning outcomes; if you have more than this consider splitting your lesson into 2 or 3 smaller lessons. In summary:
+Before you begin your lesson, make sure you have a clear idea of what it will be about. Lessons should have 2-3 learning outcomes; if you have more than this consider splitting your lesson into 2 or 3 smaller lessons. Recap:
 * **Clearly define 2-3 learning outcomes**
 * **Shorten long lessons or split them into smaller ones**
 
 ### 2. Understand and consider your audience
-Your lesson may be for someone who has never used a certain program before or it may be for more advanced users. Make sure you have your audience clearly in mind when writing steps and make sure you keep a consistent voice. Over/under explaining some steps may be confusing for your readers. If you do want to include a note for advanced users, make it clear who that note is for. In summary:
+Your lesson may be for someone who has never used a certain program before or it may be for more advanced users. Make sure you have your audience clearly in mind when writing steps and make sure you keep a consistent voice. Over/under explaining some steps may be confusing for your readers. If you do want to include a note for advanced users, make it clear who that note is for. Recap:
 
 * **Decide if your tutorial is for a novice, intermediate, or advanced user**
 * **Keep this experience level in mind with each step - don't over/under explain**
 
 ### 3. Determine what the user will need
-Remember that not everyone has a computer, or a specific operating system, etc. Think about what is absolutely required for your lesson and what you would recommend. Free software is always preferred so if your tutorial requires paid software, consider finding free alternatives. For example, Microsoft Word requires a subscription to use but markdown files can be written with a myriad of free software. [Libre Office](https://www.libreoffice.org/) and Google Docs are additional options. Provide links to required and recommended software. In summary:
+Remember that not everyone has a computer, or a specific operating system, etc. Think about what is absolutely required for your lesson and what you would recommend. Free software is always preferred so if your tutorial requires paid software, consider finding free alternatives. For example, Microsoft Word requires a subscription to use but markdown files can be written with a myriad of free software. [Libre Office](https://www.libreoffice.org/) and [Google Docs](https://www.google.com/docs/about/) also provide free word processors. Provide links to required and recommended software. Recap:
 * **Be explicit about what the user will need; i.e. internet access, hardware, operating system, software...**
 * **Recommend free software whenever possible**
 * **Provide links to required/recommended software or website access**
@@ -58,9 +58,9 @@ Start with the [lesson template](https://github.com/jloan/pierce-hacker-submissi
 
 ## Credits, Further Reading, etc.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgwNTQ5NDE2MSwyMDg2NjU4MTU4LDE0Mj
-AzNjcxNDAsLTM2ODE2NzI1MSwtMjAzMjEwNjM1OSwtNDU4NzIw
-NzMzLDI1ODMxODI2LDExMDU2MTY4NzMsLTE0NDY0ODU5MywtOT
-I5ODg2OTEzLDE4Njc3NTkxNzEsLTEyMTUzMDAzOTEsLTU0NzQ4
-Njk5NywxOTMwMTIxNzY0XX0=
+eyJoaXN0b3J5IjpbNzM4MjUxMzgzLDIwODY2NTgxNTgsMTQyMD
+M2NzE0MCwtMzY4MTY3MjUxLC0yMDMyMTA2MzU5LC00NTg3MjA3
+MzMsMjU4MzE4MjYsMTEwNTYxNjg3MywtMTQ0NjQ4NTkzLC05Mj
+k4ODY5MTMsMTg2Nzc1OTE3MSwtMTIxNTMwMDM5MSwtNTQ3NDg2
+OTk3LDE5MzAxMjE3NjRdfQ==
 -->
