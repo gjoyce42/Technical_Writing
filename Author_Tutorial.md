@@ -50,7 +50,7 @@ Remember that not everyone has a computer, or a specific operating system, etc. 
 * **Provide links to required/recommended software or website access**
 
 ### 4. Start drafting
-Start with the [lesson template](https://github.com/jloan/pierce-hacker-submissions/blob/master/lessons/lesson-template.md). By now, you should have enough information to fill out everything up to the Lesson Steps/Components portion.
+Start with the [lesson template](https://github.com/jloan/pierce-hacker-submissions/blob/master/lessons/lesson-template.md). By now, you should have enough information to fill out everything up to the Lesson Steps/Components portion. Writing these steps can 
 
 ### 5. Review your work and make edits
 
@@ -58,9 +58,9 @@ Start with the [lesson template](https://github.com/jloan/pierce-hacker-submissi
 
 ## Credits, Further Reading, etc.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzM4MjUxMzgzLDIwODY2NTgxNTgsMTQyMD
-M2NzE0MCwtMzY4MTY3MjUxLC0yMDMyMTA2MzU5LC00NTg3MjA3
-MzMsMjU4MzE4MjYsMTEwNTYxNjg3MywtMTQ0NjQ4NTkzLC05Mj
-k4ODY5MTMsMTg2Nzc1OTE3MSwtMTIxNTMwMDM5MSwtNTQ3NDg2
-OTk3LDE5MzAxMjE3NjRdfQ==
+eyJoaXN0b3J5IjpbLTQxNDgxNTA3Myw3MzgyNTEzODMsMjA4Nj
+Y1ODE1OCwxNDIwMzY3MTQwLC0zNjgxNjcyNTEsLTIwMzIxMDYz
+NTksLTQ1ODcyMDczMywyNTgzMTgyNiwxMTA1NjE2ODczLC0xND
+Q2NDg1OTMsLTkyOTg4NjkxMywxODY3NzU5MTcxLC0xMjE1MzAw
+MzkxLC01NDc0ODY5OTcsMTkzMDEyMTc2NF19
 -->
