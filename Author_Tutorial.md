@@ -41,7 +41,7 @@ Before you begin your lesson, make sure you have a clear idea of what it will be
 Your lesson may be for someone who has never used a certain program before or it may be for more advanced users. Make sure you have your audience clearly in mind when writing steps and make sure you keep a consistent voice. Over/under explaining some steps may be confusing for your readers. If you do want to include a note for advanced users, make it clear who that note is for. In summary:
 
 * **Decide if your tutorial is for a novice, intermediate, or advanced user**
-* **Address this user with each step - don't over/under explain**
+* **Keep this in mind  for each step - don't over/under explain**
 
 ### 3. Determine what the user will need
 Remember that not everyone has a computer, or your operating system, or your web browser, etc. Think about what is absolutely required for your lesson and what you would recommend. Free software is always preferred so if your tutorial requires paid software, consider finding free alternatives. For example, Microsoft Word requires a subscription to use but markdown files can be written with a myriad of free software. Provide links to required and recommended software. In summary:
@@ -58,9 +58,9 @@ Start with the [lesson template](https://github.com/jloan/pierce-hacker-submissi
 
 ## Credits, Further Reading, etc.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA4NjY1ODE1OCwxNDIwMzY3MTQwLC0zNj
-gxNjcyNTEsLTIwMzIxMDYzNTksLTQ1ODcyMDczMywyNTgzMTgy
-NiwxMTA1NjE2ODczLC0xNDQ2NDg1OTMsLTkyOTg4NjkxMywxOD
-Y3NzU5MTcxLC0xMjE1MzAwMzkxLC01NDc0ODY5OTcsMTkzMDEy
-MTc2NF19
+eyJoaXN0b3J5IjpbMTM3MTQzOTg1NiwyMDg2NjU4MTU4LDE0Mj
+AzNjcxNDAsLTM2ODE2NzI1MSwtMjAzMjEwNjM1OSwtNDU4NzIw
+NzMzLDI1ODMxODI2LDExMDU2MTY4NzMsLTE0NDY0ODU5MywtOT
+I5ODg2OTEzLDE4Njc3NTkxNzEsLTEyMTUzMDAzOTEsLTU0NzQ4
+Njk5NywxOTMwMTIxNzY0XX0=
 -->
