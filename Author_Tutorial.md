@@ -54,16 +54,15 @@ Start with the [lesson template](https://github.com/jloan/pierce-hacker-submissi
 * **Make the lesson as long/short as it needs to be for this step**
 
 ### 5. Review your work and make edits
-N
+First, read through your lesson. It may be helpful to have someone else look at it too. Pay attention to the voice of the document - does it sound 
 
 
 ## Credits, Further Reading, etc.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MzEzMjIyNDksMTc2MTAxMzk3NSwtMT
-MzMzczODc0NywxOTIyMjQ4MTc0LC00MTQ4MTUwNzMsNzM4MjUx
-MzgzLDIwODY2NTgxNTgsMTQyMDM2NzE0MCwtMzY4MTY3MjUxLC
-0yMDMyMTA2MzU5LC00NTg3MjA3MzMsMjU4MzE4MjYsMTEwNTYx
-Njg3MywtMTQ0NjQ4NTkzLC05Mjk4ODY5MTMsMTg2Nzc1OTE3MS
-wtMTIxNTMwMDM5MSwtNTQ3NDg2OTk3LDE5MzAxMjE3NjRdfQ==
-
+eyJoaXN0b3J5IjpbMTM4NDAxMzU4OCwxNzYxMDEzOTc1LC0xMz
+MzNzM4NzQ3LDE5MjIyNDgxNzQsLTQxNDgxNTA3Myw3MzgyNTEz
+ODMsMjA4NjY1ODE1OCwxNDIwMzY3MTQwLC0zNjgxNjcyNTEsLT
+IwMzIxMDYzNTksLTQ1ODcyMDczMywyNTgzMTgyNiwxMTA1NjE2
+ODczLC0xNDQ2NDg1OTMsLTkyOTg4NjkxMywxODY3NzU5MTcxLC
+0xMjE1MzAwMzkxLC01NDc0ODY5OTcsMTkzMDEyMTc2NF19
 -->
