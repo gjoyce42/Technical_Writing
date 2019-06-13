@@ -52,14 +52,14 @@ Remember that not everyone has a computer, or a specific operating system, etc. 
 Start with the [lesson template](https://github.com/jloan/pierce-hacker-submissions/blob/master/lessons/lesson-template.md). By now, you should have enough information to fill out everything up to the Lesson Steps/Components portion. This is a great time to research other online lessons (or tutorials) to get an idea of how to make yours effective. Try not to hold yourself to a certain number of steps. Instead, write out as many steps as you think you need. You can always combine them later if appropriate. If you feel like you have done this and your lesson is too long, it may be a good idea to break it up into 2 or more lessons. Recap:
 * **Start filling out the [lesson template](https://github.com/jloan/pierce-hacker-submissions/blob/master/lessons/lesson-template.md)**
 * **Make the lesson as long/short as it needs to be for this step**
-* 
+
 ### 5. Review your work and make edits
 
 
 
 ## Credits, Further Reading, etc.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAyNjM4ODE3MywtMTMzMzczODc0NywxOT
+eyJoaXN0b3J5IjpbMTc2MTAxMzk3NSwtMTMzMzczODc0NywxOT
 IyMjQ4MTc0LC00MTQ4MTUwNzMsNzM4MjUxMzgzLDIwODY2NTgx
 NTgsMTQyMDM2NzE0MCwtMzY4MTY3MjUxLC0yMDMyMTA2MzU5LC
 00NTg3MjA3MzMsMjU4MzE4MjYsMTEwNTYxNjg3MywtMTQ0NjQ4
