@@ -51,7 +51,7 @@ Remember that not everyone has a computer, or a specific operating system, etc. 
 ### 4. Start drafting
 Start with the [lesson template](https://github.com/jloan/pierce-hacker-submissions/blob/master/lessons/lesson-template.md). By now, you should have enough information to fill out everything up to the Lesson Steps/Components portion. This is a great time to research other online lessons (or tutorials) to get an idea of how to make yours effective. Try not to hold yourself to a certain number of steps. Instead, write out as many steps as you think you need. If you feel like you have done this and your lesson is too long, it may be a good idea to break it up into 2 or more lessons. Recap:
 * **Start filling out the [lesson template](https://github.com/jloan/pierce-hacker-submissions/blob/master/lessons/lesson-template.md)**
-* **If your lesson is too long, split it into 2 or more lessons**
+* **Try not to use too many steps or**
 
 ### 5. Review your work and make edits
 First, read through your lesson. It may be helpful to have someone else look at it too. Pay attention to the voice of the lesson - is the voice consistent? Are there too many or too few assumptions about the user's knowledge? Are there any required materials that aren't listed (with links when possible)?
@@ -67,11 +67,11 @@ Also consider how easy it is to skim your lesson. Using headers and other format
 [https://www.markdownguide.org/](https://www.markdownguide.org/)
 [http://openpedagogy.org/](http://openpedagogy.org/)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjQ5Mzc1MDQzLDE0MjI1OTU3OTMsLTE2OD
-EyNjc5NjYsMTc2MTAxMzk3NSwtMTMzMzczODc0NywxOTIyMjQ4
-MTc0LC00MTQ4MTUwNzMsNzM4MjUxMzgzLDIwODY2NTgxNTgsMT
-QyMDM2NzE0MCwtMzY4MTY3MjUxLC0yMDMyMTA2MzU5LC00NTg3
-MjA3MzMsMjU4MzE4MjYsMTEwNTYxNjg3MywtMTQ0NjQ4NTkzLC
-05Mjk4ODY5MTMsMTg2Nzc1OTE3MSwtMTIxNTMwMDM5MSwtNTQ3
-NDg2OTk3XX0=
+eyJoaXN0b3J5IjpbLTQ0MjE3MzQ4MCwxNDIyNTk1NzkzLC0xNj
+gxMjY3OTY2LDE3NjEwMTM5NzUsLTEzMzM3Mzg3NDcsMTkyMjI0
+ODE3NCwtNDE0ODE1MDczLDczODI1MTM4MywyMDg2NjU4MTU4LD
+E0MjAzNjcxNDAsLTM2ODE2NzI1MSwtMjAzMjEwNjM1OSwtNDU4
+NzIwNzMzLDI1ODMxODI2LDExMDU2MTY4NzMsLTE0NDY0ODU5My
+wtOTI5ODg2OTEzLDE4Njc3NTkxNzEsLTEyMTUzMDAzOTEsLTU0
+NzQ4Njk5N119
 -->
