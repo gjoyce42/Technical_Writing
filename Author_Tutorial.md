@@ -46,10 +46,10 @@ Your lesson may be for someone who has never used a certain program before or it
 Remember that not everyone has a computer, or a specific operating system, etc. Think about what is absolutely required for your lesson and what you would recommend. Free software is always preferred so if your tutorial requires paid software, consider finding free alternatives. For example, Microsoft Word requires a subscription to use but markdown files can be written with a myriad of free software. [Libre Office](https://www.libreoffice.org/) and [Google Docs](https://www.google.com/docs/about/) also provide free word processors. Provide links to required and recommended software. Recap:
 * **Be explicit about what the user will need; i.e. internet access, hardware, operating system, software...**
 * **Use free software whenever possible**
-* **Provide links to required/recommended software or website access**
+* **Provide links to required/recommended software or website**
 
 ### 4. Start drafting
-Start with the [lesson template](https://github.com/jloan/pierce-hacker-submissions/blob/master/lessons/lesson-template.md). By now, you should have enough information to fill out everything up to the Lesson Steps/Components portion. This is a great time to research other online lessons (or tutorials) to get an idea of how to make yours effective. Try not to hold yourself to a certain number of steps. Instead, write out as many steps as you think you need. You can always combine them later if appropriate. If you feel like you have done this and your lesson is too long, it may be a good idea to break it up into 2 or more lessons. Recap:
+Start with the [lesson template](https://github.com/jloan/pierce-hacker-submissions/blob/master/lessons/lesson-template.md). By now, you should have enough information to fill out everything up to the Lesson Steps/Components portion. This is a great time to research other online lessons (or tutorials) to get an idea of how to make yours effective. Try not to hold yourself to a certain number of steps. Instead, write out as many steps as you think you need. If you feel like you have done this and your lesson is too long, it may be a good idea to break it up into 2 or more lessons. Recap:
 * **Start filling out the [lesson template](https://github.com/jloan/pierce-hacker-submissions/blob/master/lessons/lesson-template.md)**
 * **Make the lesson as long/short as it needs to be for this step**
 
@@ -67,11 +67,11 @@ Also consider how easy it is to skim your lesson. Using headers and other format
 [https://www.markdownguide.org/](https://www.markdownguide.org/)
 [http://openpedagogy.org/](http://openpedagogy.org/)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQyMjU5NTc5MywtMTY4MTI2Nzk2NiwxNz
-YxMDEzOTc1LC0xMzMzNzM4NzQ3LDE5MjIyNDgxNzQsLTQxNDgx
-NTA3Myw3MzgyNTEzODMsMjA4NjY1ODE1OCwxNDIwMzY3MTQwLC
-0zNjgxNjcyNTEsLTIwMzIxMDYzNTksLTQ1ODcyMDczMywyNTgz
-MTgyNiwxMTA1NjE2ODczLC0xNDQ2NDg1OTMsLTkyOTg4NjkxMy
-wxODY3NzU5MTcxLC0xMjE1MzAwMzkxLC01NDc0ODY5OTcsMTkz
-MDEyMTc2NF19
+eyJoaXN0b3J5IjpbMTI0NDE1NTk4MiwxNDIyNTk1NzkzLC0xNj
+gxMjY3OTY2LDE3NjEwMTM5NzUsLTEzMzM3Mzg3NDcsMTkyMjI0
+ODE3NCwtNDE0ODE1MDczLDczODI1MTM4MywyMDg2NjU4MTU4LD
+E0MjAzNjcxNDAsLTM2ODE2NzI1MSwtMjAzMjEwNjM1OSwtNDU4
+NzIwNzMzLDI1ODMxODI2LDExMDU2MTY4NzMsLTE0NDY0ODU5My
+wtOTI5ODg2OTEzLDE4Njc3NTkxNzEsLTEyMTUzMDAzOTEsLTU0
+NzQ4Njk5N119
 -->
