@@ -61,13 +61,13 @@ Also consider how easy it is to skim your lesson. Using headers and other format
 * **Ensure all required materials are listed (with links when possible)**
 * **Make sure your lesson is easy to skim - use formatting**
 
-
 ## Credits, Further Reading, etc.
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDA5OTU5OTU0LDE3NjEwMTM5NzUsLTEzMz
-M3Mzg3NDcsMTkyMjI0ODE3NCwtNDE0ODE1MDczLDczODI1MTM4
-MywyMDg2NjU4MTU4LDE0MjAzNjcxNDAsLTM2ODE2NzI1MSwtMj
-AzMjEwNjM1OSwtNDU4NzIwNzMzLDI1ODMxODI2LDExMDU2MTY4
-NzMsLTE0NDY0ODU5MywtOTI5ODg2OTEzLDE4Njc3NTkxNzEsLT
-EyMTUzMDAzOTEsLTU0NzQ4Njk5NywxOTMwMTIxNzY0XX0=
+eyJoaXN0b3J5IjpbMTI5NTAyOTE2NiwxNzYxMDEzOTc1LC0xMz
+MzNzM4NzQ3LDE5MjIyNDgxNzQsLTQxNDgxNTA3Myw3MzgyNTEz
+ODMsMjA4NjY1ODE1OCwxNDIwMzY3MTQwLC0zNjgxNjcyNTEsLT
+IwMzIxMDYzNTksLTQ1ODcyMDczMywyNTgzMTgyNiwxMTA1NjE2
+ODczLC0xNDQ2NDg1OTMsLTkyOTg4NjkxMywxODY3NzU5MTcxLC
+0xMjE1MzAwMzkxLC01NDc0ODY5OTcsMTkzMDEyMTc2NF19
 -->
