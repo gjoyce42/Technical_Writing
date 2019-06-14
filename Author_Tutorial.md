@@ -21,8 +21,7 @@ This lesson is designed to both show how to make a lesson formatted for PierceHa
 * To complete a lesson in markdown, you will need internet access and your favorite web browser
 * ***A laptop or desktop computer is highly recommended over a phone or tablet***
 * A markdown editing client is recommended
-	- A great in-browser editor for beginners is [Editor.md](https://dillinger.io)
-	- This lesson was created with [StackEdit](https://stackedit.io) which is free, easy to use, and allows you to easily save files on your Google Drive (if you have gmail, you have this)
+	- A great in-browser editor for beginners is [Editor.md](https://dillinger.io), this lesson was created with [StackEdit](https://stackedit.io) which is also free and easy to use.
 	- Check [this page from Slant.co](https://www.slant.co/search?query=markdown%20editors) for options specific to your operating system
 >	- If you choose to write your file in plain text or using an online workspace like [github](https://github.com/), check this [page from markdownguide.org](https://www.markdownguide.org/basic-syntax/) that will help you format your file
 * Growth mindset!
@@ -51,7 +50,7 @@ Remember that not everyone has a computer, or a specific operating system, etc. 
 ### 4. Start drafting
 Start with the [lesson template](https://github.com/jloan/pierce-hacker-submissions/blob/master/lessons/lesson-template.md). By now, you should have enough information to fill out everything up to the Lesson Steps/Components portion. This is a great time to research other online lessons (or tutorials) to get an idea of how to make yours effective. Try not to hold yourself to a certain number of steps. Instead, write out as many steps as you think you need. If you feel like you have done this and your lesson is too long, it may be a good idea to break it up into 2 or more lessons. Recap:
 * **Start filling out the [lesson template](https://github.com/jloan/pierce-hacker-submissions/blob/master/lessons/lesson-template.md)**
-* **Try not to use too many steps or**
+* **Try not to use too many steps or really long steps**
 
 ### 5. Review your work and make edits
 First, read through your lesson. It may be helpful to have someone else look at it too. Pay attention to the voice of the lesson - is the voice consistent? Are there too many or too few assumptions about the user's knowledge? Are there any required materials that aren't listed (with links when possible)?
@@ -67,11 +66,11 @@ Also consider how easy it is to skim your lesson. Using headers and other format
 [https://www.markdownguide.org/](https://www.markdownguide.org/)
 [http://openpedagogy.org/](http://openpedagogy.org/)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ0MjE3MzQ4MCwxNDIyNTk1NzkzLC0xNj
-gxMjY3OTY2LDE3NjEwMTM5NzUsLTEzMzM3Mzg3NDcsMTkyMjI0
-ODE3NCwtNDE0ODE1MDczLDczODI1MTM4MywyMDg2NjU4MTU4LD
-E0MjAzNjcxNDAsLTM2ODE2NzI1MSwtMjAzMjEwNjM1OSwtNDU4
-NzIwNzMzLDI1ODMxODI2LDExMDU2MTY4NzMsLTE0NDY0ODU5My
-wtOTI5ODg2OTEzLDE4Njc3NTkxNzEsLTEyMTUzMDAzOTEsLTU0
-NzQ4Njk5N119
+eyJoaXN0b3J5IjpbLTIwMjY4NjQzMzIsMTQyMjU5NTc5MywtMT
+Y4MTI2Nzk2NiwxNzYxMDEzOTc1LC0xMzMzNzM4NzQ3LDE5MjIy
+NDgxNzQsLTQxNDgxNTA3Myw3MzgyNTEzODMsMjA4NjY1ODE1OC
+wxNDIwMzY3MTQwLC0zNjgxNjcyNTEsLTIwMzIxMDYzNTksLTQ1
+ODcyMDczMywyNTgzMTgyNiwxMTA1NjE2ODczLC0xNDQ2NDg1OT
+MsLTkyOTg4NjkxMywxODY3NzU5MTcxLC0xMjE1MzAwMzkxLC01
+NDc0ODY5OTddfQ==
 -->
