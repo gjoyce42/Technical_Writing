@@ -1,5 +1,5 @@
 ---
-# title: Writing a Lesson
+#title: Writing a Lesson
 authors:
 - Greg Joyce
 date: 2019-06-05
@@ -67,11 +67,11 @@ Also consider how easy it is to skim your lesson. Using headers and other format
 [https://www.markdownguide.org/](https://www.markdownguide.org/)
 [http://openpedagogy.org/](http://openpedagogy.org/)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2ODEyNjc5NjYsMTc2MTAxMzk3NSwtMT
-MzMzczODc0NywxOTIyMjQ4MTc0LC00MTQ4MTUwNzMsNzM4MjUx
-MzgzLDIwODY2NTgxNTgsMTQyMDM2NzE0MCwtMzY4MTY3MjUxLC
-0yMDMyMTA2MzU5LC00NTg3MjA3MzMsMjU4MzE4MjYsMTEwNTYx
-Njg3MywtMTQ0NjQ4NTkzLC05Mjk4ODY5MTMsMTg2Nzc1OTE3MS
-wtMTIxNTMwMDM5MSwtNTQ3NDg2OTk3LDE5MzAxMjE3NjRdfQ==
-
+eyJoaXN0b3J5IjpbNDc2MjYzNjU0LC0xNjgxMjY3OTY2LDE3Nj
+EwMTM5NzUsLTEzMzM3Mzg3NDcsMTkyMjI0ODE3NCwtNDE0ODE1
+MDczLDczODI1MTM4MywyMDg2NjU4MTU4LDE0MjAzNjcxNDAsLT
+M2ODE2NzI1MSwtMjAzMjEwNjM1OSwtNDU4NzIwNzMzLDI1ODMx
+ODI2LDExMDU2MTY4NzMsLTE0NDY0ODU5MywtOTI5ODg2OTEzLD
+E4Njc3NTkxNzEsLTEyMTUzMDAzOTEsLTU0NzQ4Njk5NywxOTMw
+MTIxNzY0XX0=
 -->
