@@ -18,13 +18,14 @@ This lesson is designed to both show how to make a lesson formatted for PierceHa
 * Authors will be able to reference this lesson to review their own work before submitting.
 
 ## Materials
+* Growth mindset!
 * To complete a lesson in markdown, you will need internet access and your favorite web browser
 * ***A laptop or desktop computer is highly recommended over a phone or tablet***
 * A markdown editing client is recommended
 	- A great in-browser editor for beginners is [Editor.md](https://dillinger.io), this lesson was created with [StackEdit](https://stackedit.io) which is also free and easy to use.
-	- Check [this page from Slant.co](https://www.slant.co/search?query=markdown%20editors) for options specific to your operating system
+	- Check [this page from Slant.co](https://www.slant.co/search?query=markdown%20editors) for other options
 >	- If you choose to write your file in plain text or using an online workspace like [github](https://github.com/), check this [page from markdownguide.org](https://www.markdownguide.org/basic-syntax/) that will help you format your file
-* Growth mindset!
+
 
 ## Overview
 PierceHacker hosts lessons and other resources in order to help the Pierce College community develop new technical skills and better understand the ways in which technology shapes the work we do both in and out of the classroom. The obvious goal of these lessons is to provide a resource to students & professor. However, [open pedagogy](http://openpedagogy.org/open-pedagogy/) is at the heart of PierceHacker - we hope authors will gain as much from writing a lesson as they give. This lesson will provide some overview, tips, and resources for authors but also assumes a willingness to explore and experiment.
@@ -66,11 +67,11 @@ Also consider how easy it is to skim your lesson. Using headers and other format
 [https://www.markdownguide.org/](https://www.markdownguide.org/)
 [http://openpedagogy.org/](http://openpedagogy.org/)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMjY4NjQzMzIsMTQyMjU5NTc5MywtMT
-Y4MTI2Nzk2NiwxNzYxMDEzOTc1LC0xMzMzNzM4NzQ3LDE5MjIy
-NDgxNzQsLTQxNDgxNTA3Myw3MzgyNTEzODMsMjA4NjY1ODE1OC
-wxNDIwMzY3MTQwLC0zNjgxNjcyNTEsLTIwMzIxMDYzNTksLTQ1
-ODcyMDczMywyNTgzMTgyNiwxMTA1NjE2ODczLC0xNDQ2NDg1OT
-MsLTkyOTg4NjkxMywxODY3NzU5MTcxLC0xMjE1MzAwMzkxLC01
-NDc0ODY5OTddfQ==
+eyJoaXN0b3J5IjpbODU1NzM3NTA2LDE0MjI1OTU3OTMsLTE2OD
+EyNjc5NjYsMTc2MTAxMzk3NSwtMTMzMzczODc0NywxOTIyMjQ4
+MTc0LC00MTQ4MTUwNzMsNzM4MjUxMzgzLDIwODY2NTgxNTgsMT
+QyMDM2NzE0MCwtMzY4MTY3MjUxLC0yMDMyMTA2MzU5LC00NTg3
+MjA3MzMsMjU4MzE4MjYsMTEwNTYxNjg3MywtMTQ0NjQ4NTkzLC
+05Mjk4ODY5MTMsMTg2Nzc1OTE3MSwtMTIxNTMwMDM5MSwtNTQ3
+NDg2OTk3XX0=
 -->
