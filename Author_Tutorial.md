@@ -56,12 +56,12 @@ Start with the [lesson template](https://github.com/jloan/pierce-hacker-submissi
 ### 5. Review your work and make edits
 First, read through your lesson. It may be helpful to have someone else look at it too. Pay attention to the voice of the document - is the voice consistent? Are there too many or too few assumptions about the user's knowledge? Are there any required materials that aren't listed (with links when possible)?
 
-Also consider how easy it is to skim your lesson. After reading through it, users 
+Also consider how easy it is to skim your lesson. Using headers, notations,
 
 
 ## Credits, Further Reading, etc.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEyNTQ3OTI3NCwxNzYxMDEzOTc1LC0xMz
+eyJoaXN0b3J5IjpbLTMyMzcxMzc5OSwxNzYxMDEzOTc1LC0xMz
 MzNzM4NzQ3LDE5MjIyNDgxNzQsLTQxNDgxNTA3Myw3MzgyNTEz
 ODMsMjA4NjY1ODE1OCwxNDIwMzY3MTQwLC0zNjgxNjcyNTEsLT
 IwMzIxMDYzNTksLTQ1ODcyMDczMywyNTgzMTgyNiwxMTA1NjE2
