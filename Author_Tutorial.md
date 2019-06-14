@@ -54,21 +54,20 @@ Start with the [lesson template](https://github.com/jloan/pierce-hacker-submissi
 * **Make the lesson as long/short as it needs to be for this step**
 
 ### 5. Review your work and make edits
-First, read through your lesson. It may be helpful to have someone else look at it too. Pay attention to the voice of the document - is the voice consistent? Are there too many or too few assumptions about the user's knowledge? Are there any required materials that aren't listed (with links when possible)?
+First, read through your lesson. It may be helpful to have someone else look at it too. Pay attention to the voice of the lesson - is the voice consistent? Are there too many or too few assumptions about the user's knowledge? Are there any required materials that aren't listed (with links when possible)?
 
 Also consider how easy it is to skim your lesson. Using headers and other formatting tools to make certain points stick out makes your lesson easier to use. It also helps for users who are coming back to your lesson for something specific. You may choose to restate key points at the end of each step as this document does or you may have a different approach. Try to choose a style that is accessible and makes sense for your lesson. Recap:
-* **Make sure the voice is consistent**
-* ****
-* ****
+* **Make sure the voice is consistent and speaks to your audience**
+* **Ensure all required materials are listed (with links when possible)**
+* **Make sure your lesson is easy to skim - use formatting**
 
 
 ## Credits, Further Reading, etc.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMjQyNTU4MjEsMTc2MTAxMzk3NSwtMT
-MzMzczODc0NywxOTIyMjQ4MTc0LC00MTQ4MTUwNzMsNzM4MjUx
-MzgzLDIwODY2NTgxNTgsMTQyMDM2NzE0MCwtMzY4MTY3MjUxLC
-0yMDMyMTA2MzU5LC00NTg3MjA3MzMsMjU4MzE4MjYsMTEwNTYx
-Njg3MywtMTQ0NjQ4NTkzLC05Mjk4ODY5MTMsMTg2Nzc1OTE3MS
-wtMTIxNTMwMDM5MSwtNTQ3NDg2OTk3LDE5MzAxMjE3NjRdfQ==
-
+eyJoaXN0b3J5IjpbNDA5OTU5OTU0LDE3NjEwMTM5NzUsLTEzMz
+M3Mzg3NDcsMTkyMjI0ODE3NCwtNDE0ODE1MDczLDczODI1MTM4
+MywyMDg2NjU4MTU4LDE0MjAzNjcxNDAsLTM2ODE2NzI1MSwtMj
+AzMjEwNjM1OSwtNDU4NzIwNzMzLDI1ODMxODI2LDExMDU2MTY4
+NzMsLTE0NDY0ODU5MywtOTI5ODg2OTEzLDE4Njc3NTkxNzEsLT
+EyMTUzMDAzOTEsLTU0NzQ4Njk5NywxOTMwMTIxNzY0XX0=
 -->
