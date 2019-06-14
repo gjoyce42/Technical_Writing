@@ -65,13 +65,12 @@ Also consider how easy it is to skim your lesson. Using headers and other format
 
 [https://www.slant.co/](https://www.slant.co/)
 [https://www.markdownguide.org/](https://www.markdownguide.org/)
-
+[http://openpedagogy.org/](http://openpedagogy.org/)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMzU3NzgwNDAsMTc2MTAxMzk3NSwtMT
-MzMzczODc0NywxOTIyMjQ4MTc0LC00MTQ4MTUwNzMsNzM4MjUx
-MzgzLDIwODY2NTgxNTgsMTQyMDM2NzE0MCwtMzY4MTY3MjUxLC
-0yMDMyMTA2MzU5LC00NTg3MjA3MzMsMjU4MzE4MjYsMTEwNTYx
-Njg3MywtMTQ0NjQ4NTkzLC05Mjk4ODY5MTMsMTg2Nzc1OTE3MS
-wtMTIxNTMwMDM5MSwtNTQ3NDg2OTk3LDE5MzAxMjE3NjRdfQ==
-
+eyJoaXN0b3J5IjpbMTQxODQ0MzYyMywxNzYxMDEzOTc1LC0xMz
+MzNzM4NzQ3LDE5MjIyNDgxNzQsLTQxNDgxNTA3Myw3MzgyNTEz
+ODMsMjA4NjY1ODE1OCwxNDIwMzY3MTQwLC0zNjgxNjcyNTEsLT
+IwMzIxMDYzNTksLTQ1ODcyMDczMywyNTgzMTgyNiwxMTA1NjE2
+ODczLC0xNDQ2NDg1OTMsLTkyOTg4NjkxMywxODY3NzU5MTcxLC
+0xMjE1MzAwMzkxLC01NDc0ODY5OTcsMTkzMDEyMTc2NF19
 -->
