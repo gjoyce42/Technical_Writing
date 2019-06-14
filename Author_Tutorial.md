@@ -44,7 +44,7 @@ Your lesson may be for someone who has never used a certain program before or it
 
 ### 3. Determine what the user will need
 Remember that not everyone has a computer, or a specific operating system, etc. Think about what is absolutely required for your lesson and what you would recommend. Free software is always preferred so if your tutorial requires paid software, consider finding free alternatives. For example, Microsoft Word requires a subscription to use but markdown files can be written with a myriad of free software. [Libre Office](https://www.libreoffice.org/) and [Google Docs](https://www.google.com/docs/about/) also provide free word processors. Provide links to required and recommended software. Recap:
-* **Be explicit about what the user will need; i.e. internet access, hardware, operating system, software...**
+* **Be explicit about what the user will need; i.e. internet access, hardware, operating system, software**
 * **Use free software whenever possible**
 * **Provide links to required/recommended software or website**
 
@@ -67,11 +67,11 @@ Also consider how easy it is to skim your lesson. Using headers and other format
 [https://www.markdownguide.org/](https://www.markdownguide.org/)
 [http://openpedagogy.org/](http://openpedagogy.org/)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODU1NzM3NTA2LDE0MjI1OTU3OTMsLTE2OD
-EyNjc5NjYsMTc2MTAxMzk3NSwtMTMzMzczODc0NywxOTIyMjQ4
-MTc0LC00MTQ4MTUwNzMsNzM4MjUxMzgzLDIwODY2NTgxNTgsMT
-QyMDM2NzE0MCwtMzY4MTY3MjUxLC0yMDMyMTA2MzU5LC00NTg3
-MjA3MzMsMjU4MzE4MjYsMTEwNTYxNjg3MywtMTQ0NjQ4NTkzLC
-05Mjk4ODY5MTMsMTg2Nzc1OTE3MSwtMTIxNTMwMDM5MSwtNTQ3
-NDg2OTk3XX0=
+eyJoaXN0b3J5IjpbLTU5OTM2MTc5MCw4NTU3Mzc1MDYsMTQyMj
+U5NTc5MywtMTY4MTI2Nzk2NiwxNzYxMDEzOTc1LC0xMzMzNzM4
+NzQ3LDE5MjIyNDgxNzQsLTQxNDgxNTA3Myw3MzgyNTEzODMsMj
+A4NjY1ODE1OCwxNDIwMzY3MTQwLC0zNjgxNjcyNTEsLTIwMzIx
+MDYzNTksLTQ1ODcyMDczMywyNTgzMTgyNiwxMTA1NjE2ODczLC
+0xNDQ2NDg1OTMsLTkyOTg4NjkxMywxODY3NzU5MTcxLC0xMjE1
+MzAwMzkxXX0=
 -->
