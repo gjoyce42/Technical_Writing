@@ -24,7 +24,7 @@ This lesson is designed to both show how to make a lesson formatted for PierceHa
 	- A great in-browser editor for beginners is [Editor.md](https://dillinger.io)
 	- This lesson was created with [StackEdit](https://stackedit.io) which is free, easy to use, and allows you to easily save files on your Google Drive (if you have gmail, you have this)
 	- Check [this page from Slant.co](https://www.slant.co/search?query=markdown%20editors) for options specific to your operating system
->	- If you choose to write your file in plain text or using an online workspace like [github](https://github.com/), check this [page from markdown.org](https://www.markdownguide.org/basic-syntax/) that will help you format your file
+>	- If you choose to write your file in plain text or using an online workspace like [github](https://github.com/), check this [page from markdownguide.org](https://www.markdownguide.org/basic-syntax/) that will help you format your file
 * Growth mindset!
 
 ## Overview
@@ -63,11 +63,15 @@ Also consider how easy it is to skim your lesson. Using headers and other format
 
 ## Credits, Further Reading, etc.
 
+[https://www.slant.co/](https://www.slant.co/)
+[https://www.markdownguide.org/](https://www.markdownguide.org/)
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI5NTAyOTE2NiwxNzYxMDEzOTc1LC0xMz
-MzNzM4NzQ3LDE5MjIyNDgxNzQsLTQxNDgxNTA3Myw3MzgyNTEz
-ODMsMjA4NjY1ODE1OCwxNDIwMzY3MTQwLC0zNjgxNjcyNTEsLT
-IwMzIxMDYzNTksLTQ1ODcyMDczMywyNTgzMTgyNiwxMTA1NjE2
-ODczLC0xNDQ2NDg1OTMsLTkyOTg4NjkxMywxODY3NzU5MTcxLC
-0xMjE1MzAwMzkxLC01NDc0ODY5OTcsMTkzMDEyMTc2NF19
+eyJoaXN0b3J5IjpbLTEzMzU3NzgwNDAsMTc2MTAxMzk3NSwtMT
+MzMzczODc0NywxOTIyMjQ4MTc0LC00MTQ4MTUwNzMsNzM4MjUx
+MzgzLDIwODY2NTgxNTgsMTQyMDM2NzE0MCwtMzY4MTY3MjUxLC
+0yMDMyMTA2MzU5LC00NTg3MjA3MzMsMjU4MzE4MjYsMTEwNTYx
+Njg3MywtMTQ0NjQ4NTkzLC05Mjk4ODY5MTMsMTg2Nzc1OTE3MS
+wtMTIxNTMwMDM5MSwtNTQ3NDg2OTk3LDE5MzAxMjE3NjRdfQ==
+
 -->
